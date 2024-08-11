@@ -1,5 +1,5 @@
 
-# Humphries-LabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Humphries' lab website
 
 Visit **[humphries-lab.github.io/Lab-Website](https://humphries-lab.github.io/Lab-Website)** 🚀
 
