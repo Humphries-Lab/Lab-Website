@@ -42,8 +42,6 @@ Investigating how, when, and what subjects learn during decision-making tasks re
 {% capture text %}
 
 ### Computing the probability of connection between two neurons
-March 2022
-
 In a new lab paper, we introduce a new Bayesian approach to computing the probability of connection between classes of neuron, its distance dependence, and the strength of evidence for it. We use this approach to synthesis the most complete map of the striatal microcircuit currently available. 
 
 {%
