@@ -1,7 +1,7 @@
 ---
 ---
 
-##We are a neural data lab.
+### We are a neural data lab.
 
 We interrogate how the joint activity of many neurons encodes the past, present, and future in order to guide behaviour.  We develop neural data analysis techniques, and use them to understand what joint activity is encoding in recordings of hundreds or thousands of neurons, from across different tasks, brain circuits, species, and phyla. And we develop theoretical and computational models for how this joint activity arises from neural circuits.
 ​
@@ -11,7 +11,7 @@ Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
 {% include section.html %}
 
-## News
+## Highlights
 
 {% capture text %}
 
