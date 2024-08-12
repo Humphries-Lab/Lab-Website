@@ -1,6 +1,6 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #5f0f40;
+  --secondary: #9a031e;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Muli", sans-serif;
+  --heading: "Muli", sans-serif;
+  --body: "Muli", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
