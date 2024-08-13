@@ -11,7 +11,7 @@ Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
 ## Highlights
 
-{% capture text %}
+//{% capture text %}
 
 ### Tracking subjects' choice strategies at trial resolution
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution, and show We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
@@ -27,7 +27,7 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
   style="bare"
 %}
 
-{% endcapture %}
+//{% endcapture %}
 
 {%
   include feature.html
@@ -39,7 +39,7 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
   text=text
 %}
 
-{% capture text %}
+//{% capture text %}
 
 ### Computing the probability of connection between two neurons
 In a new lab paper, we introduce a new Bayesian approach to computing the probability of connection between classes of neuron, its distance dependence, and the strength of evidence for it. We use this approach to synthesis the most complete map of the striatal microcircuit currently available. 
@@ -62,7 +62,7 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
   style="bare"
 %}
 
-{% endcapture %}
+//{% endcapture %}
 
 {%
   include feature.html
@@ -87,7 +87,7 @@ The strong and weak principles make different predictions about how we might exp
   style="bare"
 %}
 
-{% endcapture %}
+//{% endcapture %}
 
 {%
   include feature.html
@@ -120,7 +120,7 @@ This paper was the result of whole-lab hackathons by Humphries, Caballero, Evans
   style="bare"
 %}
 
-{% endcapture %}
+//{% endcapture %}
 
 {%
   include feature.html
