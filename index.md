@@ -34,8 +34,6 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
   image="images/Paper_Figures/Maggi_eLife2024_figure5.jpg"
   link="https://doi.org/10.7554/eLife.86491"
   //title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
