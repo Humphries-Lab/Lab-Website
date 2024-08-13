@@ -15,8 +15,8 @@ Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
 ### Tracking subjects' choice strategies at trial resolution
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution, and show We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
-
-
+<br>
+Toolboxes for analysing your data are available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
 
 {%
   include button.html
@@ -31,7 +31,7 @@ Investigating how, when, and what subjects learn during decision-making tasks re
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Paper_Figures/Maggi_eLife2024_figure5.jpg"
   link="https://doi.org/10.7554/eLife.86491"
   //title="Our Projects"
   flip=true
