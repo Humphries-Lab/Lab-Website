@@ -11,7 +11,7 @@ Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
 ## Highlights
 
-//{% capture text %}
+{% capture text %}
 
 ### Tracking subjects' choice strategies at trial resolution
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution, and show We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
@@ -27,17 +27,16 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
   style="bare"
 %}
 
-//{% endcapture %}
+{% endcapture %}
 
-//{%
-//  include feature.html
-//  image="images/Paper_Figures/Maggi_eLife2024_figure5.jpg"
-//  link="https://doi.org/10.7554/eLife.86491"
-  //title="A patched neuron"
-//  text=text
-//%}
+{%
+  include feature.html
+  image="images/Paper_Figures/Maggi_eLife2024_figure5.jpg"
+  link="https://doi.org/10.7554/eLife.86491"
+  text=text
+%}
 
-//{% capture text %}
+{% capture text %}
 
 ### Computing the probability of connection between two neurons
 In a new lab paper, we introduce a new Bayesian approach to computing the probability of connection between classes of neuron, its distance dependence, and the strength of evidence for it. We use this approach to synthesis the most complete map of the striatal microcircuit currently available. 
@@ -51,21 +50,20 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
   style="bare"
 %}
 
-//{%
-//  include button.html
-//  link="https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry"
-//  text="Get code"
-//  icon="fa-solid fa-arrow-right"
-//  flip=true
-//  style="bare"
-//%}
+{%
+  include button.html
+  link="https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry"
+  text="Get code"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-//{% endcapture %}
+{% endcapture %}
 
 {%
   include feature.html
   image="images/1__Neuron_with_a_patch_pipette.jpg"
   link="https://doi.org/10.1523/JNEUROSCI.1487-21.2021"
-  //title="A patched neuron"
   text=text
 %}
