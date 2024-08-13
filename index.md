@@ -67,3 +67,28 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
   link="https://doi.org/10.1523/JNEUROSCI.1487-21.2021"
   text=text
 %}
+
+{% capture text %}
+### Strong and weak principles of neural dimension reduction
+When we apply dimension reduction to neural activity how should we interpret the results? Mark's paper argues there are strong and Weak principles of neural dimension reduction: The weak principle is that dimension reduction is a convenient tool for making sense of complex neural data; the strong principle is that dimension reduction shows us how neural circuits actually operate and compute. 
+<br>
+The strong and weak principles make different predictions about how we might expect the dimensionality of neural activity to scale with the number of neurons; these predictions were recently tested by [Manley et al (2024) Neuron](https://doi.org/10.1016/j.neuron.2024.02.011).
+
+
+{%
+  include button.html
+  link="https://doi.org/10.51628/001c.24619"
+  text="Read 'Strong and weak principles of neural dimension reduction' in Neurons, Behavior, Data analysis, and Theory."
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Paper_Figures/DimensionScalingSketch.png"
+  link="https://doi.org/10.51628/001c.24619"
+  text=text
+%}
