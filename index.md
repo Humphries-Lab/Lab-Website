@@ -53,6 +53,15 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
   style="bare"
 %}
 
+{%
+  include button.html
+  link="https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry"
+  text="Get code"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 {% endcapture %}
 
 {%
@@ -63,16 +72,16 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
   text=text
 %}
 
+### Strong and weak principles of neural dimension reduction
+When we apply dimension reduction to neural activity how should we interpret the results? Mark's paper argues there are strong and Weak principles of neural dimension reduction: The weak principle is that dimension reduction is a convenient tool for making sense of complex neural data; the strong principle is that dimension reduction shows us how neural circuits actually operate and compute. 
+<br>
+The strong and weak principles make different predictions about how we might expect the dimensionality of neural activity to scale with the number of neurons; these predictions were recently tested by [Manley et al (2024) Neuron](https://doi.org/10.1016/j.neuron.2024.02.011).
 
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="https://doi.org/10.51628/001c.24619"
+  text="Read 'Strong and weak principles of neural dimension reduction' in Neurons, Behavior, Data analysis, and Theory."
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -82,8 +91,41 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/Paper_Figures/DimensionScalingSketch.png"
+  link="https://doi.org/10.51628/001c.24619"
+  //title="A patched neuron"
+  text=text
+%}
+
+### Finding the dimensions of network data
+Discovering low-dimensional structure in real-world networks requires a suitable null model that defines the absence of meaningful structure. Here we introduce a spectral approach for detecting a network's low-dimensional structure, and the nodes that participate in it, using any null model. A powerful feature of our approach is that it automatically estimates the number of dimensions in the data network that depart from the null model. 
+<br>
+This paper was the result of whole-lab hackathons by Humphries, Caballero, Evans, Maggi & Singh. 
+
+{%
+  include button.html
+  link="https://doi.org/10.1371/journal.pone.0254057"
+  text="Read 'Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models' in PLoS One"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="https://github.com/mdhumphries/NetworkNoiseRejection"
+  text="Get code"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png"
+  link="https://doi.org/10.1371/journal.pone.0254057"
+  //title="A patched neuron"
   text=text
 %}
