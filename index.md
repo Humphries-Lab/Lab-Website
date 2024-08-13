@@ -92,3 +92,33 @@ The strong and weak principles make different predictions about how we might exp
   link="https://doi.org/10.51628/001c.24619"
   text=text
 %}
+
+### Finding the dimensions of networks
+Discovering low-dimensional structure in real-world networks requires a suitable null model that defines the absence of meaningful structure. Here we introduce a spectral approach for detecting a network's low-dimensional structure, and the nodes that participate in it, using any null model. A powerful feature of our approach is that it automatically estimates the number of dimensions in the data network that depart from the null model. 
+<br>
+This paper was the result of whole-lab hackathons by Humphries, Caballero, Evans, Maggi & Singh. 
+
+{%
+  include button.html
+  link="https://doi.org/10.1371/journal.pone.0254057"
+  text="Read 'Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models' in PLoS One"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="https://github.com/mdhumphries/NetworkNoiseRejection"
+  text="Get code"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include feature.html
+  image="images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png"
+  link="https://doi.org/10.1371/journal.pone.0254057"
+  text=text
+%}
