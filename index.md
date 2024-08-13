@@ -53,14 +53,14 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
   style="bare"
 %}
 
-{%
-  include button.html
-  link="https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry"
-  text="Get code"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+//{%
+//  include button.html
+//  link="https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry"
+//  text="Get code"
+//  icon="fa-solid fa-arrow-right"
+//  flip=true
+//  style="bare"
+//%}
 
 //{% endcapture %}
 
@@ -111,14 +111,14 @@ This paper was the result of whole-lab hackathons by Humphries, Caballero, Evans
   style="bare"
 %}
 
-{%
-  include button.html
-  link="https://github.com/mdhumphries/NetworkNoiseRejection"
-  text="Get code"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+//{%
+//  include button.html
+//  link="https://github.com/mdhumphries/NetworkNoiseRejection"
+//  text="Get code"
+//  icon="fa-solid fa-arrow-right"
+//  flip=true
+//  style="bare"
+// %}
 
 //{% endcapture %}
 
