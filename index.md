@@ -21,7 +21,7 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
 {%
   include button.html
   link="https://doi.org/10.7554/eLife.86491"
-  text="Read 'Tracking subjects’ strategies in behavioural choice experiments at trial resolution' at eLife"
+  text="Read 'Tracking subjects' strategies in behavioural choice experiments at trial resolution' at eLife"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -29,13 +29,13 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
 
 //{% endcapture %}
 
-{%
-  include feature.html
-  image="images/Paper_Figures/Maggi_eLife2024_figure5.jpg"
-  link="https://doi.org/10.7554/eLife.86491"
+//{%
+//  include feature.html
+//  image="images/Paper_Figures/Maggi_eLife2024_figure5.jpg"
+//  link="https://doi.org/10.7554/eLife.86491"
   //title="A patched neuron"
-  text=text
-%}
+//  text=text
+//%}
 
 //{% capture text %}
 
