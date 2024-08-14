@@ -9,7 +9,7 @@ aliases:
   - M Humphries
   - MD Humphries
 links:
-    <!-- home-page: https://janesmith.com -->
+  home-page: https://drmdhumphries.medium.com/
   orcid: 0000-0002-1906-2581
 ---
 
