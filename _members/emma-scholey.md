@@ -1,6 +1,6 @@
 ---
 name: Emma Scholey
-image: images/Team/EmmaS.jpg
+image: images/Team/EmmaS.JPG
 role: phd
 aliases:
   - E Scholey
