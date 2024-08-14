@@ -7,6 +7,7 @@ aliases:
   - S. Maggi
   - S Maggi
 links:
+  email: silvia.maggi@nottingham.ac.uk
   home-page: https://www.nottingham.ac.uk/psychology/people/silvia.maggi
   orcid: 0000-0001-6533-3509
   google-scholar: uWLWZgMAAAAJ
