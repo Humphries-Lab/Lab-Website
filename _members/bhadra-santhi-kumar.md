@@ -18,4 +18,4 @@ links:
   linkedin: 
 ---
 
-Bhadra is a postdoc on a Innovate UK project to optimse the selection of Parkinson's patients for deep brain stimulation surgery
+Bhadra is a postdoc on an Innovate UK project to optimse the selection of Parkinson's patients for deep brain stimulation surgery
