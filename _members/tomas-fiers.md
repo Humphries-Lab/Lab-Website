@@ -1,13 +1,14 @@
 ---
-name: Emma Scholey
-image: images/Team/EmmaS.JPG
+name: Tomas Fiers
+image: images/Team/Tomas_Fiers.jpg
 role: phd
+group: alumni
 aliases:
-  - E Scholey
-  - E. Scholey
+  - T Fiers
+  - T. Fiers
     
 links:
-  email: exs165@student.bham.ac.uk
+  email: lpxtf3@exmail.nottingham.ac.uk
   home-page: 
   orcid: 
   google-scholar: 
@@ -16,4 +17,4 @@ links:
   linkedin: 
 ---
 
-Emma is a graduate student working on the role of stochastic choice in foraging decisions. She is a jointly supervised by [Matt Apps](https://www.msn-lab.com/) at the University of Birmingham.
+Tomas was a graduate student from 2020-2024, working on the inference of connections between neurons from voltage imaging data. 
