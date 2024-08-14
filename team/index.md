@@ -24,7 +24,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-## Affilates
+## Affiliates
 
 {% include list.html data="affiliates" component="portrait" %}
 
