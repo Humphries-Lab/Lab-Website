@@ -1,5 +1,8 @@
 ---
 name: Abhinav Singh
+aliases:
+  - A. Singh
+  - A Singh
 image: images/Team/AS_GitHub.jpg
 role: postdoc
 group: alumni
