@@ -1,14 +1,16 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Mark Humphries
+image: images/Team/MarkH.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Nottingham
 aliases:
-  - J. Smith
-  - J Smith
+  - M. Humphries
+  - M. D. Humphries
+  - M Humphries
+  - MD Humphries
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+    <!-- home-page: https://janesmith.com -->
+  orcid: 0000-0002-1906-2581
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
