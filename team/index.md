@@ -24,7 +24,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
----
 ## Affilates
 
 {% capture content %}
@@ -39,7 +38,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
----
 ## Alumni
 
 {% capture content %}
