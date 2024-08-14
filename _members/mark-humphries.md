@@ -14,6 +14,7 @@ links:
   google-scholar: AKR7P-4AAAAJ
   github: mdhumphries
   twitter: markdhumphries
+  linkedin: mark-humphries
 ---
 
 Mark Humphries is a Chair in Computational Neuroscience at the University of Nottingham, UK. He previously held the prestigious seven-year Senior Fellowship from the UK’s Medical Research Council; before that were a three-year fellowship at Ecole Normale Superieure in Paris, a literal stone’s throw from the Pantheon, and postdoctoral and PhD training at the University of Sheffield. His lab's research attempts to make sense of the collective activity of neurons - be they in the basal ganglia, the brainstem, the sensory and prefrontal cortex, and the sea-slug’s locomotion system - and how they all relate to behaviour. He finds the pleasures of network theory a useful diversion from the complexity of trying to understand the brain.
