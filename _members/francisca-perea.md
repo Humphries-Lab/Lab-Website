@@ -1,5 +1,8 @@
 ---
 name: Francisca Perea
+aliases:
+  - F. Perea
+  - F Perea
 image: images/Team/Photo_FPP.jpg
 description: 
 role: postdoc
