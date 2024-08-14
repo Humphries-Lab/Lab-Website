@@ -13,8 +13,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group:" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group:" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -26,7 +26,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Affiliates
 
-{% include list.html data="affiliates" component="portrait" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: affiliates" %}
 
 
 {% include section.html %}
