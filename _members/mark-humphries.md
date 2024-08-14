@@ -1,6 +1,6 @@
 ---
 name: Mark Humphries
-image: images/Team/MarkH.jpg
+image: images/Team/MarkH.jpeg
 role: pi
 affiliation: University of Nottingham
 aliases:
