@@ -1,7 +1,8 @@
 ---
 name: Mat Evans
-alias:
-  -
+aliases:
+  - M Evans
+  - M. Evans
 image: images/Team/great_wall.JPG
 role: postdoc
 group: alumni
