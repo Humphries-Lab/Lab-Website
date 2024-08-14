@@ -8,6 +8,7 @@ aliases:
   - M Humphries
   - MD Humphries
 links:
+  email: mark.humphries@nottingham.ac.uk
   home-page: https://drmdhumphries.medium.com/
   orcid: 0000-0002-1906-2581
   google-scholar: AKR7P-4AAAAJ
