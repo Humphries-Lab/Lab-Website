@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Javier Caballero
+image: images/JavierC.jpg
+role: fellow
+group: alumni
 links:
-  github: john-doe
+  linkedin: javiercaballero/?originalSubdomain=uk
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Javier Caballero was a CONACYT (Mexico) Research Fellow in the group, researching the neural substrates of decision making. 
