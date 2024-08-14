@@ -1,6 +1,6 @@
 ---
 name: Andrea Colins Rodriguez
-image: images/Team/Andrea_for_website.jpeg
+image: images/Team/Andrea_for_Website.jpg
 role: fellow
 group:  affiliates
 aliases:
