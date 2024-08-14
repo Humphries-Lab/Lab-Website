@@ -1,5 +1,8 @@
 ---
 name: Javier Caballero
+aliases:
+  - J. Caballero
+  - J Caballero
 image: images/Team/JavierC.jpg
 role: fellow
 group: alumni
