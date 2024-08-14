@@ -1,6 +1,6 @@
 ---
 name: Javier Caballero
-image: images/JavierC.jpg
+image: images/Team/JavierC.jpg
 role: fellow
 group: alumni
 links:
