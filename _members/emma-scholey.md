@@ -1,15 +1,13 @@
 ---
-name: Bhadra Santhi Kumar
-image: images/Team/bhadra.jpeg
+name: Emma Scholey
+image: images/Team/EmmaS.jpg
 role: postdoc
 aliases:
-  - B Kumar
-  - B. Kumar
-  - B. S. Kumar
-  - BS Kumar
+  - E Scholey
+  - E. Scholey
     
 links:
-  email: lpzbk@exmail.nottingham.ac.uk  
+  email: exs165@student.bham.ac.uk
   home-page: 
   orcid: 
   google-scholar: 
@@ -18,4 +16,4 @@ links:
   linkedin: 
 ---
 
-Bhadra is a postdoc on an Innovate UK project to optimse the selection of Parkinson's patients for deep brain stimulation surgery
+Emma is a graduate student working on the role of stochastic choice in foraging decisions. She is a jointly supervised by [Matt Apps](https://www.msn-lab.com/) at the University of Birmingham.
