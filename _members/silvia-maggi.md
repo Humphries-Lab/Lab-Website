@@ -1,7 +1,8 @@
 ---
 name: Silvia Maggi
 image: images/Team/silvia.jpg
-role: affiliate
+role: pi
+group: affiliates
 aliases:
   - S. Maggi
   - S Maggi
