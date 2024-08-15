@@ -14,7 +14,7 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
   include button.html
   icon="fa-brands fa-google"
   text="basal ganglia"
-  link="[https://scholar.google.co.uk/citations?hl=en&user=AKR7P-4AAAAJ&view_op=list_works&sortby=pubdat](https://greenelab.com/research/?search=%22tag:%20gene%20modules%22)e"
+  link="?search=tag:basal ganglia"
 %}
 
 
