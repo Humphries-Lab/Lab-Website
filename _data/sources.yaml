@@ -10,11 +10,17 @@
     - type: source
       text: Python toolbox
       link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python
+
+- id: doi:10.1523/JNEUROSCI.1412-21.2022
+  image: https://www.jneurosci.org/content/jneuro/42/20/4131/F2.medium.gif
+  tags:
+    - prefrontal-cortex
+    - latent-dynamics
       
 - id: doi:10.1523/jneurosci.1487-21.2021
   image: https://www.jneurosci.org/content/jneuro/42/8/1417/F10.medium.gif
   tags:
-    - basal ganglia
+    - basal-ganglia
     - Bayesian
   buttons:
     - type: source
