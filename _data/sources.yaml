@@ -1,3 +1,16 @@
+- id: doi:10.7554/eLife.86491
+image: https://iiif.elifesciences.org/lax:86491%2Felife-86491-fig1-v2.tif/full/617,/0/default.webp
+tags:
+  - Bayesian
+  - behaviour
+buttons:
+    - type: source
+      text: MATLAB toolbox
+      link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
+    - type: source
+      text: Python toolbox
+      link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python
+      
 - id: doi:10.1523/jneurosci.1487-21.2021
   image: https://www.jneurosci.org/content/jneuro/42/8/1417/F10.medium.gif
   tags:
