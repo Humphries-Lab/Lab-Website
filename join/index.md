@@ -10,7 +10,7 @@ We love to work with curious, kind people. Learn more about our lab from the [La
 None right now.
 
 ### Independent research fellows
-The Humphries Lab has a great track record of hosting independent research fellows studying the computations of neural populations. We welcome enquiries from candidates who would like to apply for an independent research fellowship with our support. Please send a rough proposal, idea of targeted funding bodies, and CV [to Mark](members/mark-humphries).
+The Humphries Lab has a great track record of hosting independent research fellows studying the computations of neural populations. We welcome enquiries from candidates who would like to apply for an independent research fellowship with our support. Please send a rough proposal, idea of targeted funding bodies, and CV [to Mark](../members/mark-humphries).
 <br>
 <br>
 Suitable fellowship schemes are available from a range of UK funders. The University of Nottingham also offers its own [tenure-track research fellowships](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham-research.aspx), for which we're happy to discuss support. 
