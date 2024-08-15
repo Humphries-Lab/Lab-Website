@@ -14,14 +14,14 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
   include button.html
   icon="fa-solid fa-brain"
   text="basal ganglia"
-  link="?search=tag:basal ganglia"
+  link="research/?search=tag:basal ganglia"
 %}
 
 {%
   include button.html
   icon="fa-solid fa-circle-nodes"
   text="network theory"
-  link="?search=tag:network theory"
+  link="research/?search=tag:network theory"
 %}
 
 
