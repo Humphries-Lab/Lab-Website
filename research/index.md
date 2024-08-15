@@ -31,14 +31,14 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 {%
   include button.html
   icon="fa-brands fa-google"
-  text="Google Scholar"
+  text="Our Google Scholar profile"
   link="https://scholar.google.co.uk/citations?hl=en&user=AKR7P-4AAAAJ&view_op=list_works&sortby=pubdate"
 %}
 
 {%
   include button.html
   icon="fa-solid fa-book-open"
-  text="Pre-prints"  link="https://www.biorxiv.org/search/author1%3AMark%2BHumphries%2B%20text_abstract_title%3AManchester%2BNottingham%20text_abstract_title_flags%3Amatch-any%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard"
+  text="All our pre-prints"  link="https://www.biorxiv.org/search/author1%3AMark%2BHumphries%2B%20text_abstract_title%3AManchester%2BNottingham%20text_abstract_title_flags%3Amatch-any%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard"
 %}
 
 {% include section.html %}
