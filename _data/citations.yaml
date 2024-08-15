@@ -71,8 +71,12 @@
   date: '2022-04-14'
   link: https://doi.org/gt66t9
   orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.jneurosci.org/content/jneuro/42/20/4131/F2.medium.gif
+  tags:
+  - prefrontal-cortex
+  - latent-dynamics
 - id: doi:10.1523/jneurosci.1487-21.2021
   title: Bayesian Mapping of the Striatal Microcircuit Reveals Robust Asymmetries
     in the Probabilities and Distances of Connections
@@ -87,7 +91,7 @@
   file: sources.yaml
   image: https://www.jneurosci.org/content/jneuro/42/8/1417/F10.medium.gif
   tags:
-  - basal ganglia
+  - basal-ganglia
   - Bayesian
   buttons:
   - type: source
