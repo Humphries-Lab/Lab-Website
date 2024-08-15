@@ -12,7 +12,7 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 
 {%
   include button.html
-  icon="fa-brands fa-google"
+  icon="fa-solid fa-brain"
   text="basal ganglia"
   link="?search=tag:basal ganglia"
 %}
