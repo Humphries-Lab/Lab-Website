@@ -17,6 +17,14 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
   link="?search=tag:basal ganglia"
 %}
 
+{%
+  include button.html
+  icon="fa-solid fa-circle-nodes"
+  text="network theory"
+  link="?search=tag:network theory"
+%}
+
+
 
 {% include section.html %}
 
