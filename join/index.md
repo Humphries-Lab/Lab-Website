@@ -4,25 +4,26 @@ title: Join us
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
-Learn more about our lab from the [Lab Manual]().
+We love to work with curious, kind people. Learn more about our lab from the [Lab Manual](https://humphries-lab.github.io/Lab-Manual).
 
 ### Open positions
 None right now.
 
-### Independent Research Fellows
-The Humphries Lab has a great track record of hosting independent research fellows studying the computations of neural populations. We welcome... send rough proposal, idea of targeted funding bodies, and CV to...
-Contact Mark
+### Independent research fellows
+The Humphries Lab has a great track record of hosting independent research fellows studying the computations of neural populations. We welcome enquiries from candidates who would like to apply for an independent research fellowship with our support. Please send a rough proposal, idea of targeted funding bodies, and CV [to Mark](members/mark-humphries).
+<br>
+<br>
+Suitable fellowship schemes are available from a range of UK funders. The University of Nottingham also offers its own [tenure-track research fellowships](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham-research.aspx), for which we're happy to discuss support. 
 
-The University of Nottingham Fellowships..
+### Postdoctoral researchers
+Postdoc positions in the UK are funded by specific grants. All postdoc posts are advertised on [jobs.ac.uk](https://www.jobs.ac.uk/), and will appear above under <b>Open positions</b>.
 
-### Postdoctoral Researchers
-Postdoc positions in the UK are funded by specific grants. All are advertised on... [jobs.ac.uk]
+### Graduate students
+We occasionally have lab-specific PhD studentships. If available, they will appear above under <b>Open positions</b>.
+<br><br>
 
-### Graduate Students
-
-We occasionally have lab-specific PhD studentships. If available, they will appear above under <b>Open positions</b>
-
-The University of Nottingham has a range of PhD programs. 
+UK universities recruit most PhD students through their PhD programs. The University of Nottingham has [a range of PhD programs](https://www.nottingham.ac.uk/doctoral-training-centres/our-centres.aspx). Any projects we have available through these PhD programs will appear above under <b>Open positions</b>.
+<br><br>
 All program-linked PhD studentships in the UK are advertised on [FindAPhD.com](https://www.findaphd.com/).
 
 ### Internships
