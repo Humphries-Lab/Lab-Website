@@ -1,9 +1,9 @@
 - id: doi:10.7554/eLife.86491
-image: https://iiif.elifesciences.org/lax:86491%2Felife-86491-fig1-v2.tif/full/617,/0/default.webp
-tags:
-  - Bayesian
-  - behaviour
-buttons:
+  image: https://iiif.elifesciences.org/lax:86491%2Felife-86491-fig1-v2.tif/full/617,/0/default.webp
+  tags:
+    - Bayesian
+    - behaviour
+  buttons:
     - type: source
       text: MATLAB toolbox
       link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
