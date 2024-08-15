@@ -1,174 +1,670 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.7554/eLife.86491
+  title: "Tracking subjects\u2019 strategies in behavioural choice experiments at\
+    \ trial resolution"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Silvia Maggi
+  - Rebecca M Hock
+  - Martin O'Neill
+  - Mark Buckley
+  - Paula M Moran
+  - Tobias Bast
+  - Musa Sami
+  - Mark D Humphries
+  publisher: eLife
+  date: '2024-03-01'
+  link: https://doi.org/gtpkdp
+  orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2023.05.26.542452
+  title: Motor cortex latent dynamics encode spatial and temporal arm movement parameters
+    independently
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Andrea Colins Rodriguez
+  - Matthew G. Perich
+  - Lee Miller
+  - Mark D. Humphries
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-05-26'
+  link: https://doi.org/gt66t7
+  orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2022.08.30.505807
+  title: "Tracking subjects\u2019 strategies in behavioural choice experiments at\
+    \ trial resolution"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Silvia Maggi
+  - Rebecca M. Hock
+  - "Martin O\u2019Neill"
+  - Mark J. Buckley
+  - Paula M. Moran
+  - Tobias Bast
+  - Musa Sami
+  - Mark D Humphries
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-08-31'
+  link: https://doi.org/gt66t8
+  orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1523/JNEUROSCI.1412-21.2022
+  title: Activity Subspaces in Medial Prefrontal Cortex Distinguish States of the
+    World
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Silvia Maggi
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2022-04-14'
+  link: https://doi.org/gt66t9
+  orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1523/jneurosci.1487-21.2021
+  title: Bayesian Mapping of the Striatal Microcircuit Reveals Robust Asymmetries
+    in the Probabilities and Distances of Connections
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - "Fran\xE7ois Cinotti"
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2021-12-10'
+  link: https://doi.org/gt66vb
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00422-021-00887-5
+  title: 'Making decisions in the dark basement of the brain: A look back at the GPR
+    model of action selection and the basal ganglia'
+  authors:
+  - Mark D. Humphries
+  - Kevin Gurney
+  publisher: Biological Cybernetics
+  date: '2021-07-17'
+  link: https://doi.org/gt66vc
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0254057
+  title: Spectral estimation for detecting low-dimensional structure in networks using
+    arbitrary null models
+  authors:
+  - Mark D. Humphries
+  - Javier A. Caballero
+  - Mat Evans
+  - Silvia Maggi
+  - Abhinav Singh
+  publisher: PLOS ONE
+  date: '2021-07-02'
+  link: https://doi.org/gng4z8
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.51628/001c.24619
+  title: Strong and weak principles of neural dimension reduction
+  authors:
+  - Mark D Humphries
+  publisher: Neurons, Behavior, Data analysis, and Theory
+  date: '2021-06-17'
+  link: https://doi.org/gt66vd
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.08.447507
+  title: Bayesian mapping of the striatal microcircuit reveals robust asymmetries
+    in the probabilities and distances of connections
+  authors:
+  - "Fran\xE7ois Cinotti"
+  - Mark D. Humphries
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2021-06-08'
+  link: https://doi.org/gt66vf
+  orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/871137
+  title: On the use of calcium deconvolution algorithms in practical contexts
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Mathew H. Evans
+  - Rasmus S. Petersen
+  - Mark D. Humphries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-11'
+  link: https://doi.org/gkt7xc
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ejn.14414
+  title: "Maladaptive striatal plasticity and abnormal reward\u2010learning in cervical\
+    \ dystonia"
+  authors:
+  - Tom Gilbertson
+  - Mark Humphries
+  - J. Douglas Steele
+  publisher: European Journal of Neuroscience
+  date: '2019-05-14'
+  link: https://doi.org/gsw4sk
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/668962
+  title: Activity subspaces in medial prefrontal cortex distinguish states of the
+    world
+  authors:
+  - Silvia Maggi
+  - Mark D. Humphries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-06-12'
+  link: https://doi.org/gf3xjx
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.2217-18.2019
+  title: Prediction of Choice from Competing Mechanosensory and Choice-Memory Cues
+    during Active Tactile Decision Making
+  authors:
+  - Dario Campagner
+  - Mathew H. Evans
+  - Katarina Chlebikova
+  - Andrea Colins-Rodriguez
+  - Michaela S.E. Loft
+  - Sarah Fox
+  - David Pettifer
+  - Mark D. Humphries
+  - Karel Svoboda
+  - Rasmus S. Petersen
+  publisher: The Journal of Neuroscience
+  date: '2019-03-08'
+  link: https://doi.org/grwffq
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/jneurosci.1370-17.2019
+  title: Medial prefrontal cortex population activity is plastic irrespective of learning
+  authors:
+  - Abhinav Singh
+  - Adrien Peyrache
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2019-02-27'
+  link: https://doi.org/gf82mq
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/543678
+  title: Maladaptive striatal plasticity and abnormal reward-learning in cervical
+    dystonia
+  authors:
+  - Tom Gilbertson
+  - Mark Humphries
+  - J. Douglas Steele
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-08'
+  link: https://doi.org/gk3tk4
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/027102
+  title: Medial prefrontal cortex population activity is plastic irrespective of learning
+  authors:
+  - Abhinav Singh
+  - Adrien Peyrache
+  - Mark D. Humphries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2015-09-21'
+  link: https://doi.org/ggqqjq
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/jnnp-2017-315922
+  title: "Insights into Parkinson\u2019s disease from computational models of the\
+    \ basal ganglia"
+  authors:
+  - Mark D Humphries
+  - Jose Angel Obeso
+  - Jakob Kisbye Dreyer
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2018-04-17'
+  link: https://doi.org/gftzh5
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-018-04638-2
+  title: An ensemble code in medial prefrontal cortex links prior events to outcomes
+    during learning
+  authors:
+  - Silvia Maggi
+  - Adrien Peyrache
+  - Mark D. Humphries
+  publisher: Nature Communications
+  date: '2018-06-07'
+  link: https://doi.org/gdqzgc
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1006033
+  title: A probabilistic, distributed, recursive mechanism for decision-making in
+    the brain
+  authors:
+  - Javier A. Caballero
+  - Mark D. Humphries
+  - Kevin N. Gurney
+  publisher: PLOS Computational Biology
+  date: '2018-04-03'
+  link: https://doi.org/gc9pg5
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/260992
+  title: "Insights into Parkinson\u2019s disease from computational models of the\
+    \ basal ganglia"
+  authors:
+  - Mark D. Humphries
+  - Jose Obeso
+  - Jakob Kisbye Dreyer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-02-12'
+  link: https://doi.org/gdsj2m
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/NETN_a_00020
+  title: 'Dynamical networks: Finding, measuring, and tracking neural population activity
+    using network science'
+  authors:
+  - Mark D. Humphries
+  publisher: Network Neuroscience
+  date: '2017-12-01'
+  link: https://doi.org/gd2gr7
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/187948
+  title: An ensemble code in medial prefrontal cortex links prior events to outcomes
+    during learning
+  authors:
+  - Silvia Maggi
+  - Adrien Peyrache
+  - Mark D. Humphries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-09-12'
+  link: https://doi.org/gkvbcr
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.27342
+  title: A spiral attractor network drives rhythmic locomotion
+  authors:
+  - Angela M Bruno
+  - William N Frost
+  - Mark D Humphries
+  publisher: eLife
+  date: '2017-08-07'
+  link: https://doi.org/gsvdtf
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/115485
+  title: 'Dynamical networks: finding, measuring, and tracking neural population activity
+    using network science'
+  authors:
+  - Mark D. Humphries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-10'
+  link: https://doi.org/gkxf7d
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/104562
+  title: A spiral attractor network drives rhythmic locomotion
+  authors:
+  - Angela M. Bruno
+  - William N. Frost
+  - Mark D. Humphries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-01-31'
+  link: https://doi.org/gkxnzv
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.22735
+  title: The Goldilocks zone in neural circuits
+  authors:
+  - Mark D Humphries
+  publisher: eLife
+  date: '2016-12-02'
+  link: https://doi.org/gt66vg
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25819612
+  title: Modular deconstruction reveals the dynamical and physical building blocks
+    of a locomotion motor program.
+  authors:
+  - Angela M Bruno
+  - William N Frost
+  - Mark D Humphries
+  publisher: Neuron
+  date: '2015-03-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25819612
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25562526
+  title: 'A new framework for cortico-striatal plasticity: behavioural theory meets
+    in vitro data at the reinforcement-action interface.'
+  authors:
+  - Kevin N Gurney
+  - Mark D Humphries
+  - Peter Redgrave
+  publisher: PLoS biology
+  date: '2015-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25562526
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25742951
+  title: Finding communities in sparse networks.
+  authors:
+  - Abhinav Singh
+  - Mark D Humphries
+  publisher: Scientific reports
+  date: '2015-03-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25742951
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24692460
+  title: 'Slaves to the rhythm: coupling of the subthalamic nucleus-globus pallidus
+    network in Parkinsonian oscillations.'
+  authors:
+  - Mark D Humphries
+  publisher: The Journal of physiology
+  date: '2014-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24692460
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24904316
+  title: Early hypersynchrony in juvenile PINK1(-)/(-) motor cortex is rescued by
+    antidromic stimulation.
+  authors:
+  - Romain Carron
+  - Anton Filipchuk
+  - Romain Nardou
+  - Abhinav Singh
+  - Francois J Michel
+  - Mark D Humphries
+  - Constance Hammond
+  publisher: Frontiers in systems neuroscience
+  date: '2014-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24904316
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24936413
+  title: Striatal disorders dissociate mechanisms of enhanced and impaired response
+    selection - Evidence from cognitive neurophysiology and computational modelling.
+  authors:
+  - Christian Beste
+  - Mark Humphries
+  - Carsten Saft
+  publisher: NeuroImage. Clinical
+  date: '2014-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24936413
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pneurobio.2012.09.004
+  title: Population-wide distributions of neural activity during perceptual decision-making
+  authors:
+  - Adrien Wohrer
+  - Mark D. Humphries
+  - Christian K. Machens
+  publisher: Progress in Neurobiology
+  date: '2013-04-01'
+  link: https://doi.org/f4sbkw
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1002867
+  title: Passive Dendrites Enable Single Neurons to Compute Linearly Non-separable
+    Functions
+  authors:
+  - "Romain Daniel Caz\xE9"
+  - Mark Humphries
+  - Boris Gutkin
+  publisher: PLoS Computational Biology
+  date: '2013-02-28'
+  link: https://doi.org/f4sz2v
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24478684
+  title: Transient and steady-state selection in the striatal microcircuit.
+  authors:
+  - Adam Tomkins
+  - Eleni Vasilaki
+  - Christian Beste
+  - Kevin Gurney
+  - Mark D Humphries
+  publisher: Frontiers in computational neuroscience
+  date: '2014-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24478684
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1460-9568.2012.08085.x
+  title: Network effects of subthalamic deep brain stimulation drive a unique mixture
+    of responses in basal ganglia output
+  authors:
+  - Mark D. Humphries
+  - Kevin Gurney
+  publisher: European Journal of Neuroscience
+  date: '2012-07-01'
+  link: https://doi.org/f35czg
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2012.00009
+  title: Dopaminergic control of the exploration-exploitation trade-off via the basal
+    ganglia
+  authors:
+  - Mark Humphries
+  publisher: Frontiers in Neuroscience
+  date: '2012-01-01'
+  link: https://doi.org/gf3kt9
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnbeh.2012.00079
+  title: Integrating cortico-limbic-basal ganglia architectures for learning model-based
+    and model-free navigation strategies
+  authors:
+  - Mehdi Khamassi
+  - Mark D. Humphries
+  publisher: Frontiers in Behavioral Neuroscience
+  date: '2012-01-01'
+  link: https://doi.org/gdh96m
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.2853-10.2011
+  title: 'Spike-Train Communities: Finding Groups of Similar Spike Trains'
+  authors:
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2011-02-09'
+  link: https://doi.org/dvrx7j
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fncel.2011.00024
+  title: Onset of pup locomotion coincides with loss of NR2C/D-mediated cortico-striatal
+    EPSCs and dampening of striatal network immature activity
+  authors:
+  - Nathalie Dehorter
+  publisher: Frontiers in Cellular Neuroscience
+  date: '2011-01-01'
+  link: https://doi.org/bs4jgr
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pneurobio.2009.11.003
+  title: The ventral basal ganglia, a selection mechanism at the crossroads of space,
+    strategy, and reward.
+  authors:
+  - Mark D. Humphries
+  - Tony J. Prescott
+  publisher: Progress in Neurobiology
+  date: '2010-04-01'
+  link: https://doi.org/fvrdmp
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1001011
+  title: Reconstructing the Three-Dimensional GABAergic Microcircuit of the Striatum
+  authors:
+  - Mark D. Humphries
+  - Ric Wood
+  - Kevin Gurney
+  publisher: PLoS Computational Biology
+  date: '2010-11-24'
+  link: https://doi.org/d264jq
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neunet.2009.07.018
+  title: Dopamine-modulated dynamic cell assemblies generated by the GABAergic striatal
+    microcircuit
+  authors:
+  - Mark D. Humphries
+  - Ric Wood
+  - Kevin Gurney
+  publisher: Neural Networks
+  date: '2009-10-01'
+  link: https://doi.org/ff9css
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/neuro.10.026.2009
+  title: Capturing dopaminergic modulation and bimodal membrane behaviour of striatal
+    medium spiny neurons in accurate, reduced models
+  authors:
+  - Mark Humphries
+  publisher: Frontiers in Computational Neuroscience
+  date: '2009-01-01'
+  link: https://doi.org/d9554d
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/neuro.11.006.2009
+  title: Technical integration of hippocampus, basal ganglia and physical models for
+    spatial navigation
+  authors:
+  - Charles Fox
+  publisher: Frontiers in Neuroinformatics
+  date: '2009-01-01'
+  link: https://doi.org/b4tsmk
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0002051
+  title: "Network \u2018Small-World-Ness\u2019: A Quantitative Method for Determining\
+    \ Canonical Network Equivalence"
+  authors:
+  - Mark D. Humphries
+  - Kevin Gurney
+  publisher: PLoS ONE
+  date: '2008-04-30'
+  link: https://doi.org/b4hv6r
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/neco.2007.19.12.3216
+  title: Solution Methods for a New Class of Simple Model Neurons
+  authors:
+  - Mark D. Humphries
+  - Kevin Gurney
+  publisher: Neural Computation
+  date: '2007-12-01'
+  link: https://doi.org/c7rrhh
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17428776
+  title: Is there a brainstem substrate for action selection?
+  authors:
+  - M D Humphries
+  - K Gurney
+  - T J Prescott
+  publisher: Philosophical transactions of the Royal Society of London. Series B,
+    Biological sciences
+  date: '2007-09-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17428776
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.3486-06.2006
+  title: A Physiologically Plausible Model of Action Selection and Oscillatory Activity
+    in the Basal Ganglia
+  authors:
+  - Mark D. Humphries
+  - Robert D. Stewart
+  - Kevin N. Gurney
+  publisher: The Journal of Neuroscience
+  date: '2006-12-13'
+  link: https://doi.org/dtqssd
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16615219
+  title: The brainstem reticular formation is a small-world, not scale-free, network.
+  authors:
+  - M D Humphries
+  - K Gurney
+  - T J Prescott
+  publisher: Proceedings. Biological sciences
+  date: '2006-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16615219
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neunet.2005.06.049
+  title: 'A robot model of the basal ganglia: Behavior and intrinsic processing'
+  authors:
+  - Tony J. Prescott
+  - "Fernando M. Montes Gonz\xE1lez"
+  - Kevin Gurney
+  - Mark D. Humphries
+  - Peter Redgrave
+  publisher: Neural Networks
+  date: '2006-01-01'
+  link: https://doi.org/d3pjdt
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0954-898X/13/1/305
+  title: The role of intra-thalamic and thalamocortical circuits in action selection
+  authors:
+  - M.D. Humphries
+  - K.N. Gurney
+  publisher: 'Network: Computation in Neural Systems'
+  date: '2002-01-01'
+  link: https://doi.org/cjkv8w
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0893-6080(01)00060-0
+  title: A pulsed neural network model of bursting in the basal ganglia
+  authors:
+  - Mark D. Humphries
+  - Kevin N. Gurney
+  publisher: Neural Networks
+  date: '2001-07-01'
+  link: https://doi.org/fccb4x
+  orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +680,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +696,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
