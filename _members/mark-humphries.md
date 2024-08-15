@@ -7,6 +7,8 @@ aliases:
   - M. D. Humphries
   - M Humphries
   - MD Humphries
+  - Mark D Humphries
+  - Mark D. Humphries
 links:
   email: mark.humphries@nottingham.ac.uk
   home-page: https://drmdhumphries.medium.com/
