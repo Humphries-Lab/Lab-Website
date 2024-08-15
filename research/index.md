@@ -14,7 +14,7 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
   include button.html
   icon="fa-solid fa-brain"
   text="basal ganglia"
-  link="research/?search=tag:basal-ganglia"
+  link="research/?search="""tag:basal-ganglia""""
 %}
 
 {%
