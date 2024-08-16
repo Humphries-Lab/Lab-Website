@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Tools
 
-Model code is published on [ModelDB](https://senselab.med.yale.edu/modeldb/author_matches.py?author=Humphries+MD). Some highlights: 
+Our tools for analysing neural, behavioural, and network data.
 
 {% include tags.html tags="publication, resource, website" %}
 
