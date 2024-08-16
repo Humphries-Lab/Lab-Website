@@ -10,11 +10,13 @@ nav:
 To dive into some of our main research topics, hit the buttons below! (Page update may take a few seconds)
 <br>
 
+{% include tags.html tags="publication, resource, website" %}
+
 {%
   include button.html
   icon="fa-solid fa-brain"
   text="basal ganglia"
-  link="research/?search=&quot; tag:basal-ganglia &quot;"
+  link='research/?search="tag:basal-ganglia"'
 %}
 
 {%
