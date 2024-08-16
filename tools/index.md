@@ -9,7 +9,7 @@ nav:
 
 Our tools for analysing neural, behavioural, and network data.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="neural, behaviour, network" %}
 
 {% include search-info.html %}
 
