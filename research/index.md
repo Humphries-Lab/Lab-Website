@@ -10,8 +10,6 @@ nav:
 To dive into some of our main research topics, hit the buttons below! (Page update may take a few seconds)
 <br>
 
-{% include tags.html tags="publication, resource, website" %}
-
 {%
   include button.html
   icon="fa-solid fa-brain"
@@ -21,9 +19,16 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 
 {%
   include button.html
+  icon="fa-solid fa-code-branch"
+  text="latent dynamics"
+  link='research/?search="tag:latent-dynamics"'
+%}
+
+{%
+  include button.html
   icon="fa-solid fa-circle-nodes"
   text="network theory"
-  link="research/?search=tag:network-theory"
+  link='research/?search="tag:network-theory"'
 %}
 
 
