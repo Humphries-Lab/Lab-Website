@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: Code:Simulation
 nav:
-  order: 2
+  order: 4
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Code: Simulation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Model code is published on [ModelDB](https://senselab.med.yale.edu/modeldb/author_matches.py?author=Humphries+MD). Some highlights:
 
 {% include tags.html tags="publication, resource, website" %}
 
