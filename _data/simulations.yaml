@@ -7,3 +7,15 @@
   tags:
     - striatum
     - Izhikevich neurons
+    - spiking neurons
+
+- title: Spiking neuron model of the basal ganglia
+  subtitle: Humphries, Stewart & Gurney (2006) [A physiologically plausible model of action selection and oscillatory activity in the basal ganglia](https://doi.org/10.1523/JNEUROSCI.3486-06.2006). Journal of Neuroscience, 26: 12921-12942.
+  image: images/Paper_Figures/SpikingModel.png
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=83559
+  description: the Humphries model
+  tags:
+    - basal ganglia
+    - LIF neurons
+    - spiking neurons
+    - action selection
