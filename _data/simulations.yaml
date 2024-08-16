@@ -4,7 +4,7 @@
   group: featured
   image: images/blue_wiring.png
   link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=137502
-  description: A model of the 3D anatomical network of the striatum's GABAergic microcircuit between the SPNs and FSIs. Neurons are Izhikevich models tuned to reproduce key dynamic properties. Includes dopaminergic modulation of ion channels and synaptic connections.  Scalable to any volume of striatal tissue. The code here is from [Humphries et al 2010 PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1001011). An updated version of the model is in [Tomkins et al 2014 Front Comput Neurosci](https://doi.org/10.3389/fncom.2013.00192).
+  description: A model of the 3D anatomical network of the striatum's GABAergic microcircuit between the SPNs and FSIs. Neurons are Izhikevich  models tuned to reproduce key dynamic properties. Includes dopaminergic modulation of ion channels and synaptic connections.  Scalable to any volume of striatal tissue. The code here is from [Humphries et al 2010 PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1001011). An updated version of the model is in [Tomkins et al 2014 Front Comput Neurosci](https://doi.org/10.3389/fncom.2013.00192).
   tags:
     - striatum
     - Izhikevich neurons
@@ -23,9 +23,7 @@
   subtitle: Humphries, Prescott & Gurney (2007) [Is there a brainstem substrate for action selection?](https://doi.org/10.1098/rstb.2007.2057) Phil Trans Roy Soc B
   image: images/scheibel_dendrites_edit.png
   link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=128816
-  description: A set of models to study the medial reticular formation (mRF) of the brainstem. We developed a collection of algorithms to derive the adult-state wiring of the model: one set a stochastic model; the other set mimicking the developmental process. We found that the anatomical models had small-world properties, irrespective of the choice of algorithm; and that the cluster-like organisation of the mRF may have arisen to minimise wiring costs. (The model code includes options to be run as dynamic models; papers examining these dynamics are included in the .zip file).
-The anatomical models are detailed in Humphries, Prescott & Gurney (2006) Proc Roy Soc B.
-A review of the functions of the mRF, and study of a simple population-level dynamic model are in Humphries, Prescott & Gurney (2007) Phil Trans Roy Soc B. An extended review and study of a simple network-level dynamic model are in Humphries, Prescott & Gurney (2011) The medial reticular formation: a brainstem substrate for simple action selection?. In “Modelling Natural Action Selection”. CUP: Cambridge.
+  description: A set of models to study the medial reticular formation (mRF) of the brainstem. We developed a collection of algorithms to derive the adult-state wiring of the model: one set a stochastic model; the other set mimicking the developmental process. We found that the anatomical models had small-world properties, irrespective of the choice of algorithm; and that the cluster-like organisation of the mRF may have arisen to minimise wiring costs. (The model code includes options to be run as dynamic models; papers examining these dynamics are included in the .zip file). The anatomical models are detailed in Humphries, Prescott & Gurney (2006) Proc Roy Soc B. A review of the functions of the mRF, and study of a simple population-level dynamic model are in Humphries, Prescott & Gurney (2007) Phil Trans Roy Soc B. An extended review and study of a simple network-level dynamic model are in Humphries, Prescott & Gurney (2011) The medial reticular formation: a brainstem substrate for simple action selection?. In “Modelling Natural Action Selection”. CUP: Cambridge.
   tags:
     - reticular formation
     - action selection
