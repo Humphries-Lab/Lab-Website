@@ -9,6 +9,11 @@ nav:
 
 A collection of key documents for the whole lab.
 
+## Lab manual
+The Humphries Lab manual, including our onboarding guide
+
+
+
 {%
   include button.html
   type="email"
