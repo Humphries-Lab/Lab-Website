@@ -1,5 +1,5 @@
 ---
-title: Code:Tools
+title: Tools
 nav:
   order: 3
   tooltip: Analysis tools
