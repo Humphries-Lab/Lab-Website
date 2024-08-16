@@ -5,9 +5,9 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Code: Simulation
+# {% include icon.html icon="fa-solid fa-laptop-code" %} Code: Simulation
 
-Model code is published on [ModelDB](https://senselab.med.yale.edu/modeldb/author_matches.py?author=Humphries+MD). Some highlights:
+Model code is published on [ModelDB](https://senselab.med.yale.edu/modeldb/author_matches.py?author=Humphries+MD). Some highlights: 
 
 {% include tags.html tags="publication, resource, website" %}
 
