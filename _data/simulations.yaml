@@ -12,13 +12,12 @@
 - title: Spiking neuron model of the basal ganglia
   subtitle: Action selection and spiking neurons
   link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=83559
-  description: The code here is from [Humphries, Stewart and Gurney (2006) J Neurosci](https://doi.org/10.1523/JNEUROSCI.3486-06.2006). This model aimed at a rigorous test of the "action selection" theory of basal ganglia: we showed that a basal ganglia model implementing action selection was consistent with a wide range of electrophysiological data on the dynamics of the basal ganglia nuclei. In addition, here we advanced the hypothesis that dopamine acts to de-couple the subthalamic nucleus (STN) – globus pallidus (GP) negative feedback loop in normal conditions, and that a reduction in tonic dopamine will re-couple the feedback loop. Consequently, we proposed that in parkinsonian states this loop will be permanently re-coupled, producing pathological rhythms that interfere with normal selection operation in the basal ganglia. 
+  description: The code here is from [Humphries, Stewart and Gurney (2006) J Neurosci](https://doi.org/10.1523/JNEUROSCI.3486-06.2006). A rigorous test of the "action selection" theory of basal ganglia: we showed that a basal ganglia model implementing action selection was consistent with a wide range of electrophysiological data on the dynamics of the basal ganglia nuclei. 
   tags:
     - basal ganglia
     - LIF neurons
     - spiking neurons
     - action selection
-
 
 - title: Control of behaviour by the brainstem reticular formation
   subtitle: Action selection in the brainstem
