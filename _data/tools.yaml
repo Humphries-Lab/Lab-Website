@@ -1,12 +1,20 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Tracking choice strategies at trial resolution
+  subtitle: Finding the low-dimensional structure of a network
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png
+  link: https://github.com/mdhumphries/NetworkNoiseRejection
+  description: Toolbox to find and analyse low-dimensional structure in networks. Uses a spectral approach to estimate departures from a specified null model network, detailed in the accompanying paper [Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models](https://doi.org/10.1371/journal.pone.0254057). Our linked toolbox is in MATLAB; there is a [Python port](https://github.com/thomasjdelaney/Network_Noise_Rejection_Python) by Thomas Delaney.   
   tags:
-    - resource
+    - network
+    
+- title: Spectral estimation for networks
+  subtitle: Finding the low-dimensional structure of a network
+  group: featured
+  image: images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png
+  link: https://github.com/mdhumphries/NetworkNoiseRejection
+  description: Toolbox to find and analyse low-dimensional structure in networks. Uses a spectral approach to estimate departures from a specified null model network, detailed in the accompanying paper [Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models](https://doi.org/10.1371/journal.pone.0254057). Our linked toolbox is in MATLAB; there is a [Python port](https://github.com/thomasjdelaney/Network_Noise_Rejection_Python) by Thomas Delaney.   
+  tags:
+    - network
 
 - title: Cool Package
   subtitle: a subtitle
