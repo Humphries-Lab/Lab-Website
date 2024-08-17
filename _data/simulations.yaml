@@ -13,7 +13,7 @@
   subtitle: Action selection and spiking neurons
   image: images/Paper_Figures/SpikingModel.png
   link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=83559
-  description: The code here is from [Humphries, Stewart and Gurney (2006) J Neurosci](https://doi.org/10.1523/JNEUROSCI.3486-06.2006). A rigorous test of the "action selection" theory of basal ganglia: we showed that a basal ganglia model implementing action selection was consistent with a wide range of electrophysiological data on the dynamics of the basal ganglia nuclei. 
+  description: The Humphries model
   tags:
     - basal ganglia
     - LIF neurons
