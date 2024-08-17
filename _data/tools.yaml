@@ -10,24 +10,21 @@
     - Bayesian
     
 - title: Spectral estimation for networks
-  subtitle: Find the low-dimensional structure of a network
+  subtitle: 
   group: featured
   image: images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png
   link: https://github.com/mdhumphries/NetworkNoiseRejection
-  description: Toolbox to find and analyse low-dimensional structure in networks. Uses a spectral approach to estimate departures from a specified null model network, detailed in the accompanying paper [Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models](https://doi.org/10.1371/journal.pone.0254057). The linked toolbox is [in MATLAB](https://github.com/mdhumphries/NetworkNoiseRejection); we thank Thomas Delaney for the [Python port](https://github.com/thomasjdelaney/Network_Noise_Rejection_Python).   
+  description: Find the low-dimensional structure of a network, if one exists. Uses a spectral approach to estimate departures from a specified null model network, outputing the low-dimensional structure and nodes that belong to it. The output can be used to estimate the dimensionality of any data expressed as a network. See the accompanying paper [Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models](https://doi.org/10.1371/journal.pone.0254057). The linked toolbox is [in MATLAB](https://github.com/mdhumphries/NetworkNoiseRejection); we thank Thomas Delaney for the [Python port](https://github.com/thomasjdelaney/Network_Noise_Rejection_Python).   
   tags:
     - network
     - dimensions
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Small-world-ness
+  image: images/example_directed_SWN.png
+  link: https://github.com/mdhumphries/SmallWorldNess
+  description: Compute [the small-world-ness] (https://doi.org/10.1371/journal.pone.0002051) of your network.
   tags:
-    - resource
+    - network
 
 - title: Cool Tutorial
   subtitle: a subtitle
