@@ -10,10 +10,21 @@
     - spiking neurons
 
 - title: Spiking neuron model of the basal ganglia
+  subtitle: Action selection and spiking neurons
   link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=83559
   description: The code here is from [Humphries, Stewart & Gurney (2006) J Neurosci](https://doi.org/10.1523/JNEUROSCI.3486-06.2006). Journal of Neuroscience,This model aimed at a rigorous test of the “action selection” theory of basal ganglia: we showed that a basal ganglia model implementing action selection was consistent with a wide range of electrophysiological data on the dynamics of the basal ganglia nuclei. In addition, here we advanced the hypothesis that dopamine acts to de-couple the subthalamic nucleus (STN) – globus pallidus (GP) negative feedback loop in normal conditions, and that a reduction in tonic dopamine will re-couple the feedback loop. Consequently, we proposed that in parkinsonian states this loop will be permanently re-coupled, producing pathological rhythms that interfere with normal selection operation in the basal ganglia. Our hypothesis has been further tested by others (e.g. Holgado et al, 2010, J Neurosci; Hahn & McIntyre, 2010, J Comput Neurosci) who showed that such a re-coupling indeed produces pathological rhythmic dynamics.
   tags:
     - basal ganglia
     - LIF neurons
     - spiking neurons
+    - action selection
+
+
+- title: Control of behaviour by the brainstem reticular formation
+  subtitle: Action selection in the brainstem
+  image: images/scheibel_dendrites_edit.png
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=128816
+  description: A set of models to study the medial reticular formation (mRF) of the brainstem. We developed a collection of algorithms to derive the adult-state wiring of the model: one set a stochastic model; the other set mimicking the developmental process. We found that the anatomical models had small-world properties, irrespective of the choice of algorithm; and that the cluster-like organisation of the mRF may have arisen to minimise wiring costs. (The model code includes options to be run as dynamic models; papers examining these dynamics are included in the .zip file). A review of the functions of the mRF, and study of a simple population-level dynamic model are in [Humphries, Prescott & Gurney (2007) Phil Trans Roy Soc B](https://doi.org/10.1098/rstb.2007.2057). An extended review and study of a simple network-level dynamic model are in Humphries, Prescott & Gurney (2011) The medial reticular formation: a brainstem substrate for simple action selection?. In “Modelling Natural Action Selection”. CUP: Cambridge. The anatomical models are detailed in Humphries, Prescott & Gurney (2006) Proc Roy Soc B. 
+  tags:
+    - reticular formation
     - action selection
