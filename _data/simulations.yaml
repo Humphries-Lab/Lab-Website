@@ -19,3 +19,12 @@
     - LIF neurons
     - spiking neurons
     - action selection
+
+- title: Control of behaviour by the brainstem reticular formation
+  subtitle: Action selection in the brainstem
+  image: images/scheibel_dendrites_edit.png
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=128816
+  description: Anatomy and dynamics of the brainstem RF. 
+  tags:
+    - reticular formation
+    - action selection
