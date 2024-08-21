@@ -1,0 +1,36 @@
+- title: Strategy Tracker
+  subtitle: Tracking subjects' choice strategies at trial resolution
+  group: featured
+  image: images/Paper_Figures/Maggi_eLife2024_figure5.jpg
+  # icon: fa-solid fa-shuffle
+  link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
+  description: Strategy Tracker lets you track a subject's use of choice strategies across every trial. Track learning of the current rule; track rule switches; track the exploratory strategies the subject uses. Use the output to define learning, or to trigger live changes during an experiment. Read the accompanying [paper in eLife ](https://doi.org/10.7554/eLife.86491). We released toolboxes [in MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB) and [in Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python).
+  tags:
+    - behaviour
+    - Bayesian
+    
+- title: Spectral estimation for networks
+  subtitle: 
+  group: featured
+  image: images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png
+  link: https://github.com/mdhumphries/NetworkNoiseRejection
+  description: Find the low-dimensional structure of a network, if one exists. Uses a spectral approach to estimate departures from a specified null model network, outputing the low-dimensional structure and nodes that belong to it. The output can be used to estimate the dimensionality of any data expressed as a network. See the accompanying paper [Spectral estimation for detecting low-dimensional structure in networks using arbitrary null models](https://doi.org/10.1371/journal.pone.0254057). The linked toolbox is [in MATLAB](https://github.com/mdhumphries/NetworkNoiseRejection); we thank Thomas Delaney for the [Python port](https://github.com/thomasjdelaney/Network_Noise_Rejection_Python).   
+  tags:
+    - network
+    - dimensions
+
+- title: Small-world-ness
+  image: images/example_directed_SWN.png
+  link: https://github.com/mdhumphries/SmallWorldNess
+  description: Compute [the small-world-ness](https://doi.org/10.1371/journal.pone.0002051) of your network.
+  tags:
+    - network
+
+- title: Spike-train communities
+  subtitle: 
+  image: images/Paper_Figures/Spike-train-communities.png
+  link: https://github.com/mdhumphries/SpikeTrainCommunitiesToolBox
+  description: Find neural ensembles using network theory. By treating a correlation matrix as a network, we can find ensembles of correlated neurons as modules on the network.
+  tags: 
+    - network
+    - spikes

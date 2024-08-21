@@ -1,0 +1,30 @@
+- title: Striatum 3D network
+  subtitle: Dynamics of the three-dimensional striatum
+  group: featured
+  image: images/blue_wiring.png
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=137502
+  description: A model of the 3D anatomical network of the striatum's GABAergic microcircuit between the SPNs and FSIs. Neurons are Izhikevich  models tuned to reproduce key dynamic properties. Includes dopaminergic modulation of ion channels and synaptic connections.  Scalable to any volume of striatal tissue. The code here is from [Humphries et al 2010 PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1001011). An updated version of the model is in [Tomkins et al 2014 Front Comput Neurosci](https://doi.org/10.3389/fncom.2013.00192).
+  tags:
+    - striatum
+    - Izhikevich neurons
+    - spiking neurons
+
+- title: Spiking neuron model of the basal ganglia
+  subtitle: Action selection and spiking neurons
+  image: images/Paper_Figures/SpikingModel.png
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=83559
+  description: The model in [Humphries et al (2006) J Neurosci](https://doi.org/10.1523/JNEUROSCI.3486-06.2006).
+  tags:
+    - basal ganglia
+    - LIF neurons
+    - spiking neurons
+    - action selection
+
+- title: Control of behaviour by the brainstem reticular formation
+  subtitle: Action selection in the brainstem
+  image: images/scheibel_dendrites_edit.png
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=128816
+  description: Anatomy and dynamics of the medial reticular formation, and theories for its role in action selection. See review in [Humphries et al (2007) Phil Trans Roy Soc B](https://doi.org/10.1098/rstb.2007.2057).
+  tags:
+    - reticular formation
+    - action selection
