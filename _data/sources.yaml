@@ -151,5 +151,5 @@
 - id: doi:10.1101/027102
   remove: true
 
-- id pmid:25819612
+- id: pmid:25819612
   remove: true
