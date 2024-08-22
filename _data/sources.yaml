@@ -105,6 +105,7 @@
 
 # MNAS book chapter 
 - id: doi:10.1017/CBO9780511731525.018
+  image: images/scheibel_dendrites_edit.png
   tags:
     - reticular-formation
     - action-selection
@@ -150,5 +151,5 @@
 - id: doi:10.1101/027102
   remove: true
 
-# - id pubmed:25819612
-#  remove: true
+- id pmid:25819612
+  remove: true
