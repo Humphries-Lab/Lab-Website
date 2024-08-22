@@ -1,6 +1,7 @@
 ---
 name: Martin O'Neill
 aliases:
+  - Martin O'Neill
   - M O'Neill
   - M. O'Neill
 image: images/Team/MartinONeill-15-04-13-229.jpg
