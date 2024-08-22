@@ -104,8 +104,15 @@
   date: '2021-07-02'
   link: https://doi.org/gng4z8
   orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0254057.g001
+  tags:
+  - network-theory
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/mdhumphries/NetworkNoiseRejection
 - id: doi:10.51628/001c.24619
   title: Strong and weak principles of neural dimension reduction
   authors:
@@ -114,8 +121,11 @@
   date: '2021-06-17'
   link: https://doi.org/gt66vd
   orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Paper_Figures/DimensionScalingSketch.png
+  tags:
+  - latent-dynamics
 - id: doi:10.1101/871137
   title: On the use of calcium deconvolution algorithms in practical contexts
   authors:
