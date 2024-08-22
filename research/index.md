@@ -26,6 +26,13 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 
 {%
   include button.html
+  icon="fa-solid fa-brain"
+  text="dopamine"
+  link='research/?search="tag:dopamine"'
+%}
+
+{%
+  include button.html
   icon="fa-solid fa-code-branch"
   text="latent dynamics"
   link='research/?search="tag:latent-dynamics"'
