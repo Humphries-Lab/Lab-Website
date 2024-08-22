@@ -26,3 +26,6 @@
     - type: source
       text: Code
       link: https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry
+
+# papers to remove from ORCID: bioRxiv versions of published papers
+- id: 
