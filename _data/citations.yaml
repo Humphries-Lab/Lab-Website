@@ -286,19 +286,6 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:25819612
-  title: Modular deconstruction reveals the dynamical and physical building blocks
-    of a locomotion motor program.
-  authors:
-  - Angela M Bruno
-  - William N Frost
-  - Mark D Humphries
-  publisher: Neuron
-  date: '2015-03-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25819612
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:25562526
   title: 'A new framework for cortico-striatal plasticity: behavioural theory meets
     in vitro data at the reinforcement-action interface.'
@@ -675,6 +662,7 @@
   publisher: Modelling Natural Action Selection
   date: '2011-11-10'
   link: https://doi.org/bwkjjp
+  image: images/scheibel_dendrites_edit.png
   tags:
   - reticular-formation
   - action-selection
