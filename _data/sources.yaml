@@ -27,6 +27,19 @@
       text: Code
       link: https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry
 
+- id: doi:10.1371/journal.pone.0254057
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0254057.g001
+  tags:
+    - network-theory
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/mdhumphries/NetworkNoiseRejection
+
+- id: doi:10.51628/001c.24619
+  image: images/Paper_Figures/DimensionScalingSketch.png
+  tags:
+    - latent-dynamics
 
 
 # papers to remove from ORCID: bioRxiv versions of published papers
