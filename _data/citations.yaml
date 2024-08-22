@@ -43,24 +43,6 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.08.30.505807
-  title: "Tracking subjects\u2019 strategies in behavioural choice experiments at\
-    \ trial resolution"
-  authors:
-  - Silvia Maggi
-  - Rebecca M. Hock
-  - "Martin O\u2019Neill"
-  - Mark J. Buckley
-  - Paula M. Moran
-  - Tobias Bast
-  - Musa Sami
-  - Mark D Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-08-31'
-  link: https://doi.org/gt66t8
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.1412-21.2022
   title: Activity Subspaces in Medial Prefrontal Cortex Distinguish States of the
     World
@@ -134,18 +116,6 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.06.08.447507
-  title: Bayesian mapping of the striatal microcircuit reveals robust asymmetries
-    in the probabilities and distances of connections
-  authors:
-  - "Fran\xE7ois Cinotti"
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-08'
-  link: https://doi.org/gt66vf
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/871137
   title: On the use of calcium deconvolution algorithms in practical contexts
   authors:
@@ -168,18 +138,6 @@
   publisher: European Journal of Neuroscience
   date: '2019-05-14'
   link: https://doi.org/gsw4sk
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/668962
-  title: Activity subspaces in medial prefrontal cortex distinguish states of the
-    world
-  authors:
-  - Silvia Maggi
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-06-12'
-  link: https://doi.org/gf3xjx
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
@@ -212,31 +170,6 @@
   publisher: The Journal of Neuroscience
   date: '2019-02-27'
   link: https://doi.org/gf82mq
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/543678
-  title: Maladaptive striatal plasticity and abnormal reward-learning in cervical
-    dystonia
-  authors:
-  - Tom Gilbertson
-  - Mark Humphries
-  - J. Douglas Steele
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-08'
-  link: https://doi.org/gk3tk4
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/027102
-  title: Medial prefrontal cortex population activity is plastic irrespective of learning
-  authors:
-  - Abhinav Singh
-  - Adrien Peyrache
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2015-09-21'
-  link: https://doi.org/ggqqjq
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
@@ -279,19 +212,6 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/260992
-  title: "Insights into Parkinson\u2019s disease from computational models of the\
-    \ basal ganglia"
-  authors:
-  - Mark D. Humphries
-  - Jose Obeso
-  - Jakob Kisbye Dreyer
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-02-12'
-  link: https://doi.org/gdsj2m
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1162/NETN_a_00020
   title: 'Dynamical networks: Finding, measuring, and tracking neural population activity
     using network science'
@@ -300,19 +220,6 @@
   publisher: Network Neuroscience
   date: '2017-12-01'
   link: https://doi.org/gd2gr7
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/187948
-  title: An ensemble code in medial prefrontal cortex links prior events to outcomes
-    during learning
-  authors:
-  - Silvia Maggi
-  - Adrien Peyrache
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-09-12'
-  link: https://doi.org/gkvbcr
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
@@ -325,29 +232,6 @@
   publisher: eLife
   date: '2017-08-07'
   link: https://doi.org/gsvdtf
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/115485
-  title: 'Dynamical networks: finding, measuring, and tracking neural population activity
-    using network science'
-  authors:
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-03-10'
-  link: https://doi.org/gkxf7d
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/104562
-  title: A spiral attractor network drives rhythmic locomotion
-  authors:
-  - Angela M. Bruno
-  - William N. Frost
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-01-31'
-  link: https://doi.org/gkxnzv
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
