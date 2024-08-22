@@ -4,6 +4,7 @@ image: images/Team/silvia.jpg
 role: pi
 group: affiliates
 aliases:
+  - Silvia Maggi
   - S. Maggi
   - S Maggi
 links:
