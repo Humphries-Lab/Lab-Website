@@ -1,6 +1,7 @@
 ---
 name: Javier Caballero
 aliases:
+  - Javier Caballero
   - J. Caballero
   - J Caballero
 image: images/Team/JavierC.jpg
