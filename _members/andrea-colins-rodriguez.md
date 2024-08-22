@@ -4,6 +4,8 @@ image: images/Team/Andrea_for_Website.jpg
 role: fellow
 group:  affiliates
 aliases:
+  - Andrea Rodriguez
+  - Andrea Colins Rodriguez
   - A Rodriguez
   - A Colins Rodriguez
   - A. Rodriguez
