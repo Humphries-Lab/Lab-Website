@@ -4,6 +4,7 @@ image: images/Team/Tomas_Fiers.jpg
 role: phd
 group: alumni
 aliases:
+  - Tomas Fiers
   - T Fiers
   - T. Fiers
     
