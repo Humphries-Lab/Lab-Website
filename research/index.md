@@ -48,7 +48,7 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 {%
   include button.html
   icon="fa-solid fa-brain"
-  text="Prefrontal cortex"
+  text="prefrontal cortex"
   link='research/?search="tag:prefrontal-cortex"'
 %}
 
