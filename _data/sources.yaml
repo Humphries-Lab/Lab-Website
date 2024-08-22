@@ -33,7 +33,7 @@
     - network-theory
   buttons:
     - type: source
-      text: Code
+      text: Code toolbox
       link: https://github.com/mdhumphries/NetworkNoiseRejection
 
 - id: doi:10.51628/001c.24619
@@ -41,7 +41,34 @@
   tags:
     - latent-dynamics
 
+- id doi:10.1523/jneurosci.1370-17.2019
+  image: https://www.jneurosci.org/content/jneuro/39/18/3470/F3.medium.gif
+  tags:
+    - prefrontal cortex
+  buttons:
+    - type: source
+      text: Code for paper
+      link: https://github.com/mdhumphries/PfCDictionary
 
+- id doi:10.1038/s41467-018-04638-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04638-2/MediaObjects/41467_2018_4638_Fig5_HTML.jpg?as=webp
+  tags:
+    - prefrontal cortex
+  buttons:
+    - type: source
+      text: Code for paper
+      link: https://github.com/sibangi/PFCensemble_ITI
+
+- id doi:10.7554/eLife.27342
+  image: https://iiif.elifesciences.org/lax/27342%2Felife-27342-fig4-v1.tif/full/617,/0/default.webp
+  tags:
+    - Aplysia
+    - latent-dynamics
+  buttons:
+    - type: source
+      text: Code for paper
+      link: https://github.com/mdhumphries/AplysiaAttractorAnalysis
+      
 # papers to remove from ORCID: bioRxiv versions of published papers
 - id: doi:10.1101/2022.08.30.505807
   remove: true
