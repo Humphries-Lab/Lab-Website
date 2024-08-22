@@ -4,13 +4,19 @@
     - Bayesian
     - behaviour
   buttons:
-    - type: source
+    - type: package
       text: MATLAB toolbox
       link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
-    - type: source
+    - type: package
       text: Python toolbox
       link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python
-
+    - type: data
+      text: Y-maze data
+      link: http://dx.doi.org/10.6080/K0KH0KH5
+    - type: data
+      text: Other task data
+      link: http://doi.org/10.17639/nott.7274  
+      
 - id: doi:10.1523/JNEUROSCI.1412-21.2022
   image: https://www.jneurosci.org/content/jneuro/42/20/4131/F2.medium.gif
   tags:
@@ -68,6 +74,29 @@
     - type: source
       text: Code for paper
       link: https://github.com/mdhumphries/AplysiaAttractorAnalysis
+    - type: data
+      text: Data
+      link: http://dx.doi.org/10.6080/K0SN074B
+
+- id doi:10.1016/j.neuron.2015.03.005
+  image: https://www.cell.com/cms/attachment/b96fd54f-79f3-4c70-9a03-eabfab3f94fd/gr2.jpg
+  tags:
+    - Aplysia
+    - latent-dynamics
+  buttons:
+    - type: source
+      text: Code for paper
+      link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
+
+- id doi:10.1016/j.pneurobio.2012.09.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0301008212001505-gr13.jpg
+  tags:
+    - latent-dynamics
+  buttons:
+    - type: document
+      text: Download paper
+      link: research/Wohrer2013.pdf
+
       
 # papers to remove from ORCID: bioRxiv versions of published papers
 - id: doi:10.1101/2022.08.30.505807
