@@ -93,7 +93,7 @@
   tags:
     - latent-dynamics
   buttons:
-    - type: document
+    - type: paper
       text: Download paper
       link: research/Wohrer2013.pdf
 
@@ -109,7 +109,7 @@
     - reticular-formation
     - action-selection
   buttons:
-    - type: document
+    - type: paper
       text: Download paper
       link: research/Humphries2011a.pdf
 
