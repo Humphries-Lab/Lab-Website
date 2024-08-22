@@ -38,7 +38,7 @@
   tags:
     - network-theory
   buttons:
-    - type: source
+    - type: package
       text: Code toolbox
       link: https://github.com/mdhumphries/NetworkNoiseRejection
 
@@ -97,6 +97,30 @@
       text: Download paper
       link: research/Wohrer2013.pdf
 
+- id: pubmed:22347155
+  image: https://images-provider.frontiersin.org/api/ipx/w=290&f=webp/https://www.frontiersin.org/files/Articles/16922/fnins-06-00009-HTML/image_m/fnins-06-00009-g003.jpg
+  tags:
+    - dopamine
+    - basal-ganglia
+
+# MNAS book chapter 
+- id: doi10.1017/CBO9780511731525.018
+  tags:
+    - reticular-formation
+    - action-selection
+  buttons:
+    - type: document
+      text: Download paper
+      link: research/Humphries2011a.pdf
+
+- id: doi:10.1371/journal.pone.0002051
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0002051.g001
+  tags:
+    - network-theory
+  buttons:
+    - type: package
+      text: Code toolbox
+      link: https://github.com/mdhumphries/SmallWorldNess 
       
 # papers to remove from ORCID: bioRxiv versions of published papers
 - id: doi:10.1101/2022.08.30.505807
