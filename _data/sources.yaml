@@ -150,3 +150,5 @@
 - id: doi:10.1101/027102
   remove: true
 
+- id pubmed:25819612
+  remove: true
