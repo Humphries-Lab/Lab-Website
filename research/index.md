@@ -26,7 +26,7 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 
 {%
   include button.html
-  icon="fa-solid fa-brain"
+  icon="fa-solid fa-flask"
   text="dopamine"
   link='research/?search="tag:dopamine"'
 %}
