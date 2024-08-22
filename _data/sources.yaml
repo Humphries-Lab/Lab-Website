@@ -47,7 +47,7 @@
   tags:
     - latent-dynamics
 
-- id doi:10.1523/jneurosci.1370-17.2019
+- id: doi:10.1523/jneurosci.1370-17.2019
   image: https://www.jneurosci.org/content/jneuro/39/18/3470/F3.medium.gif
   tags:
     - prefrontal cortex
@@ -56,7 +56,7 @@
       text: Code for paper
       link: https://github.com/mdhumphries/PfCDictionary
 
-- id doi:10.1038/s41467-018-04638-2
+- id: doi:10.1038/s41467-018-04638-2
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04638-2/MediaObjects/41467_2018_4638_Fig5_HTML.jpg?as=webp
   tags:
     - prefrontal cortex
@@ -65,7 +65,7 @@
       text: Code for paper
       link: https://github.com/sibangi/PFCensemble_ITI
 
-- id doi:10.7554/eLife.27342
+- id: doi:10.7554/eLife.27342
   image: https://iiif.elifesciences.org/lax/27342%2Felife-27342-fig4-v1.tif/full/617,/0/default.webp
   tags:
     - Aplysia
@@ -78,7 +78,7 @@
       text: Data
       link: http://dx.doi.org/10.6080/K0SN074B
 
-- id doi:10.1016/j.neuron.2015.03.005
+- id: doi:10.1016/j.neuron.2015.03.005
   image: https://www.cell.com/cms/attachment/b96fd54f-79f3-4c70-9a03-eabfab3f94fd/gr2.jpg
   tags:
     - Aplysia
@@ -88,7 +88,7 @@
       text: Code for paper
       link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
 
-- id doi:10.1016/j.pneurobio.2012.09.004
+- id: doi:10.1016/j.pneurobio.2012.09.004
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0301008212001505-gr13.jpg
   tags:
     - latent-dynamics
