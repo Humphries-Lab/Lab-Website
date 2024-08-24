@@ -1,8 +1,7 @@
 - title: Strategy Tracker
   subtitle: Tracking subjects' choice strategies at trial resolution
   group: featured
-  image: fa-solid fa-shuffle
-  # image: images/Paper_Figures/Maggi_eLife2024_figure5.jpg
+  image: images/Paper_Figures/Maggi_eLife2024_figure5.jpg
   # icon: fa-solid fa-shuffle
   link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
   description: Strategy Tracker lets you track a subject's use of choice strategies across every trial. Track learning of the current rule; track rule switches; track the exploratory strategies the subject uses. Use the output to define learning, or to trigger live changes during an experiment. Read the accompanying [paper in eLife ](https://doi.org/10.7554/eLife.86491). We released toolboxes [in MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB) and [in Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python).
