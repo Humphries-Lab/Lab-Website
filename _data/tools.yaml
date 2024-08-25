@@ -33,4 +33,4 @@
   description: Find neural ensembles using network theory. By treating a correlation matrix as a network, we can find ensembles of correlated neurons as modules on the network.
   tags: 
     - network
-    - spikes
+    - neural

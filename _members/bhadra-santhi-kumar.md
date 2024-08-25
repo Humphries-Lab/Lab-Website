@@ -3,6 +3,10 @@ name: Bhadra Santhi Kumar
 image: images/Team/bhadra.jpeg
 role: postdoc
 aliases:
+  - Bhadra Kumar
+  - Bhadra Santhi Kumar
+  - B Santhi Kumar
+  - B. Santhi Kumar
   - B Kumar
   - B. Kumar
   - B. S. Kumar

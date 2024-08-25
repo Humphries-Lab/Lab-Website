@@ -15,7 +15,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: postdoc, group:" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group:" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
 

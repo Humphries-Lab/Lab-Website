@@ -12,9 +12,23 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
 
 {%
   include button.html
+  icon="fa-solid fa-asterisk"
+  text="Aplysia"
+  link='research/?search="tag:Aplysia"'
+%}
+
+{%
+  include button.html
   icon="fa-solid fa-brain"
   text="basal ganglia"
   link='research/?search="tag:basal-ganglia"'
+%}
+
+{%
+  include button.html
+  icon="fa-solid fa-flask"
+  text="dopamine"
+  link='research/?search="tag:dopamine"'
 %}
 
 {%
@@ -31,6 +45,12 @@ To dive into some of our main research topics, hit the buttons below! (Page upda
   link='research/?search="tag:network-theory"'
 %}
 
+{%
+  include button.html
+  icon="fa-solid fa-brain"
+  text="prefrontal cortex"
+  link='research/?search="tag:prefrontal-cortex"'
+%}
 
 
 {% include section.html %}

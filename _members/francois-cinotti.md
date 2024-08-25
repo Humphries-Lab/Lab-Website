@@ -1,6 +1,7 @@
 ---
 name: Francois Cinotti
 aliases:
+  - Francois Cinotti
   - F. Cinotti
   - F Cinotti
 image: images/Team/FrancoisCinotti.jpg

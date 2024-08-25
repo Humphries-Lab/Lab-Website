@@ -3,7 +3,7 @@
 
 ### We are a neural data lab.
 
-We interrogate how the joint activity of many neurons encodes the past, present, and future in order to guide behaviour.  We develop neural data analysis techniques, and use them to understand what joint activity is encoding in recordings of hundreds or thousands of neurons, from across different tasks, brain circuits, species, and phyla. And we develop theoretical and computational models for how this joint activity arises from neural circuits.
+We interrogate how the joint activity of many neurons encodes the past, present, and future in order to guide behaviour.  We develop analysis techniques for neural data, and use them to understand what the joint activity is encoding in recordings of hundreds or thousands of neurons, across different tasks, brain circuits, species, and phyla. And we develop theoretical and computational models for how this joint activity arises from neural circuits.
 ​<br>
 Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
@@ -13,10 +13,10 @@ Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
 {% capture text %}
 
-### Tracking subjects' choice strategies at trial resolution
+### Strategy Tracker
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
 <br>
-Toolboxes for analysing your data are available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
+Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
 
 {%
   include button.html
@@ -39,7 +39,7 @@ Toolboxes for analysing your data are available in [Python](https://github.com/H
 {% capture text %}
 
 ### Computing the probability of connection between two neurons
-In a new lab paper, we introduce a new Bayesian approach to computing the probability of connection between classes of neuron, its distance dependence, and the strength of evidence for it. We use this approach to synthesis the most complete map of the striatal microcircuit currently available. 
+A new Bayesian approach to computing the probability of connection between classes of neuron from paired recordings. Our algorithm outputs the probability of connection, the strength of evidence for it, and how it depends on distance between neurons. We use this approach to synthesise the most complete map of the striatal microcircuit currently available. 
 
 {%
   include button.html
@@ -70,7 +70,7 @@ In a new lab paper, we introduce a new Bayesian approach to computing the probab
 
 {% capture text %}
 ### Strong and weak principles of neural dimension reduction
-When we apply dimension reduction to neural activity how should we interpret the results? Mark's paper argues there are strong and Weak principles of neural dimension reduction: The weak principle is that dimension reduction is a convenient tool for making sense of complex neural data; the strong principle is that dimension reduction shows us how neural circuits actually operate and compute. 
+When we apply dimension reduction to neural activity how should we interpret its output? Mark's paper argues for strong and weak principles of neural dimension reduction: The weak principle is that dimension reduction is a convenient tool for making sense of complex neural data; the strong principle is that dimension reduction shows us how neural circuits actually operate and compute. 
 <br>
 The strong and weak principles make different predictions about how we might expect the dimensionality of neural activity to scale with the number of neurons; these predictions were recently tested by [Manley et al (2024) Neuron](https://doi.org/10.1016/j.neuron.2024.02.011).
 
@@ -95,7 +95,7 @@ The strong and weak principles make different predictions about how we might exp
 
 {% capture text %}
 ### Finding the dimensions of networks
-Discovering low-dimensional structure in real-world networks requires a suitable null model that defines the absence of meaningful structure. Here we introduce a spectral approach for detecting a network's low-dimensional structure, and the nodes that participate in it, using any null model. A powerful feature of our approach is that it automatically estimates the number of dimensions in the data network that depart from the null model. 
+Discovering low-dimensional structure in networks requires a suitable null model that defines the absence of meaningful structure. Here we introduce a spectral approach for detecting a network's low-dimensional structure, and the nodes that participate in it, using any null model. A powerful feature of our approach is that it automatically estimates the number of dimensions in the data network that depart from the null model. 
 <br>
 This paper was the result of whole-lab hackathons by Humphries, Caballero, Evans, Maggi & Singh. 
 

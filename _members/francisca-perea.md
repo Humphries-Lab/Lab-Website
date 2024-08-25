@@ -1,6 +1,7 @@
 ---
 name: Francisca Perea
 aliases:
+  - Francisca Perea
   - F. Perea
   - F Perea
 image: images/Team/Photo_FPP.jpg

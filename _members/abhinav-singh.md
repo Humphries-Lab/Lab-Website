@@ -1,6 +1,7 @@
 ---
 name: Abhinav Singh
 aliases:
+  - Abhinav Singh
   - A. Singh
   - A Singh
 image: images/Team/AS_GitHub.jpg
