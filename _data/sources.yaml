@@ -1,3 +1,10 @@
+# motor cortex spatial and temporal parameters arm movement
+# uncomment once published in full so have link to full text and image
+# - id: doi: 10.1523/JNEUROSCI.1777-23.2024
+#  image: 
+
+
+# Strategy Tracker paper
 - id: doi:10.7554/eLife.86491
   image: https://iiif.elifesciences.org/lax:86491%2Felife-86491-fig1-v2.tif/full/617,/0/default.webp
   tags:
@@ -17,12 +24,14 @@
       text: Other task data
       link: http://doi.org/10.17639/nott.7274  
       
+# Activity subspaces in mPfC   
 - id: doi:10.1523/JNEUROSCI.1412-21.2022
   image: https://www.jneurosci.org/content/jneuro/42/20/4131/F2.medium.gif
   tags:
     - prefrontal-cortex
     - latent-dynamics
-      
+
+# Bayesian inference of connections between neurons
 - id: doi:10.1523/jneurosci.1487-21.2021
   image: https://www.jneurosci.org/content/jneuro/42/8/1417/F10.medium.gif
   tags:
@@ -33,6 +42,7 @@
       text: Code
       link: https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry
 
+# Spectral estimation for networks
 - id: doi:10.1371/journal.pone.0254057
   image: images/Paper_Figures/Fig8_of_Spectral_PLoSOne_paper.png
   tags:
@@ -42,11 +52,13 @@
       text: Code toolbox
       link: https://github.com/mdhumphries/NetworkNoiseRejection
 
+# weak-strong principles
 - id: doi:10.51628/001c.24619
   image: images/Paper_Figures/DimensionScalingSketch.png
   tags:
     - latent-dynamics
 
+# mPfC plastic irrespective of learning
 - id: doi:10.1523/jneurosci.1370-17.2019
   image: https://www.jneurosci.org/content/jneuro/39/18/3470/F3.medium.gif
   tags:
@@ -56,6 +68,7 @@
       text: Code for paper
       link: https://github.com/mdhumphries/PfCDictionary
 
+# Ensemble code in mPhfC
 - id: doi:10.1038/s41467-018-04638-2
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04638-2/MediaObjects/41467_2018_4638_Fig5_HTML.jpg?as=webp
   tags:
@@ -65,6 +78,7 @@
       text: Code for paper
       link: https://github.com/sibangi/PFCensemble_ITI
 
+# Aplysia spiral attractor
 - id: doi:10.7554/eLife.27342
   image: https://iiif.elifesciences.org/lax/27342%2Felife-27342-fig4-v1.tif/full/617,/0/default.webp
   tags:
@@ -78,6 +92,7 @@
       text: Data
       link: http://dx.doi.org/10.6080/K0SN074B
 
+# Aplysia modular deconstruction
 - id: doi:10.1016/j.neuron.2015.03.005
   image: https://www.cell.com/cms/attachment/b96fd54f-79f3-4c70-9a03-eabfab3f94fd/gr2.jpg
   tags:
@@ -88,6 +103,7 @@
       text: Code for paper
       link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
 
+# Prog Neurobiol cortical activity distributions
 - id: doi:10.1016/j.pneurobio.2012.09.004
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0301008212001505-gr13.jpg
   tags:
@@ -97,6 +113,7 @@
       text: Download paper
       link: research/Wohrer2013.pdf
 
+# DA exploit-explore via BG
 - id: pmid:22347155
   image: https://images-provider.frontiersin.org/api/ipx/w=290&f=webp/https://www.frontiersin.org/files/Articles/16922/fnins-06-00009-HTML/image_m/fnins-06-00009-g003.jpg
   tags:
@@ -114,6 +131,7 @@
       text: Download paper
       link: research/Humphries2011a.pdf
 
+# PLoS One small-world-ness
 - id: doi:10.1371/journal.pone.0002051
   image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0002051.g001
   tags:
@@ -124,6 +142,11 @@
       link: https://github.com/mdhumphries/SmallWorldNess 
       
 # papers to remove from ORCID: bioRxiv versions of published papers
+
+# motor cortex pre-print: uncomment once published in full
+# - id: doi: 10.1101/2023.05.26.542452
+#  remove: true
+  
 - id: doi:10.1101/2022.08.30.505807
   remove: true
 
