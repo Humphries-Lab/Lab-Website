@@ -1,7 +1,7 @@
 
 # Humphries' lab website
 
-Visit **[humphries-lab.github.io/Lab-Website](https://humphries-lab.github.io/Lab-Website)** 🚀
+Visit **[humphries-lab.org](http://humphries-lab.org)** 🚀
 
 Notes on editing
 - "main" branch is locked: all edits should be done in a branch, and previewed with pull request from that branch. Merge to the main branch when satisfied
