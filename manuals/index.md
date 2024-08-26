@@ -28,7 +28,7 @@ Version: October 8th 2020
   include button.html
   icon="fa-solid fa-book-open"
   text="Read the code policy"
-  link='manuals/Humphries-Lab-Code-Policy-v1pt1-online.pdf'
+  link="manuals/Humphries-Lab-Code-Policy-v1pt1-online.pdf"
 %}
 
 Also read these guides to research code:
