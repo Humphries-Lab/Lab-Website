@@ -1,1 +1,1 @@
-Sitemap: http://humphries-lab.org/sitemap.xml
+Sitemap: https://humphries-lab.org/sitemap.xml
