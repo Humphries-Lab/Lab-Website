@@ -1,7 +1,7 @@
 
 # Humphries' lab website
 
-Visit **[humphries-lab.org](http://humphries-lab.org)** 🚀
+Visit **[humphries-lab.org](https://humphries-lab.org)** 🚀
 
 Notes on editing
 - The "main" branch is locked. Here's how to edit:
