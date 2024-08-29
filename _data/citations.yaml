@@ -1,5 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1523/JNEUROSCI.1777-23.2024
+  title: Motor Cortex Latent Dynamics Encode Spatial and Temporal Arm Movement Parameters
+    Independently
+  authors:
+  - Andrea Colins Rodriguez
+  - Matt G. Perich
+  - Lee E. Miller
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2024-07-26'
+  link: https://doi.org/gt8c3s
+  orcid: 0000-0002-1906-2581
+  plugin: sources.py
+  file: sources.yaml
+  image: images/JNeurosci_cover.png
+  tags:
+  - latent-dynamics
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/Humphries-Lab/Motor_Cortex_Simultaneous_Coding
+  - type: data
+    text: Target task data
+    link: https://dandiarchive.org/dandiset/000688
 - id: doi:10.7554/eLife.86491
   title: "Tracking subjects\u2019 strategies in behavioural choice experiments at\
     \ trial resolution"
@@ -35,20 +59,6 @@
   - type: data
     text: Other task data
     link: http://doi.org/10.17639/nott.7274
-- id: doi:10.1101/2023.05.26.542452
-  title: Motor cortex latent dynamics encode spatial and temporal arm movement parameters
-    independently
-  authors:
-  - Andrea Colins Rodriguez
-  - Matthew G. Perich
-  - Lee Miller
-  - Mark D. Humphries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-26'
-  link: https://doi.org/gt66t7
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.1412-21.2022
   title: Activity Subspaces in Medial Prefrontal Cortex Distinguish States of the
     World
