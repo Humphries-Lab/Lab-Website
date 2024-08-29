@@ -1,9 +1,16 @@
 # motor cortex spatial and temporal parameters arm movement
-# uncomment once published in full so have link to full text and image
-# - id: doi: 10.1523/JNEUROSCI.1777-23.2024
-#  image: 
-
-
+- id: doi: 10.1523/JNEUROSCI.1777-23.2024
+  image: images/JNeurosci_cover.png
+  tags:
+    - latent-dynamics
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/Humphries-Lab/Motor_Cortex_Simultaneous_Coding
+    - type: data
+      text: Target task data
+      link: https://dandiarchive.org/dandiset/000688
+      
 # Strategy Tracker paper
 - id: doi:10.7554/eLife.86491
   image: https://iiif.elifesciences.org/lax:86491%2Felife-86491-fig1-v2.tif/full/617,/0/default.webp
