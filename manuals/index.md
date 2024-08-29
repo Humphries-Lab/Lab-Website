@@ -5,7 +5,7 @@ nav:
   tooltip: our guidelines
 ---
 
-# {% include icon.html icon="fa-regular fa-book-open" %} Our guidelines
+# {% include icon.html icon="fa-solid fa-book-open" %} Our guidelines
 
 A collection of key documents for the whole lab.
 
