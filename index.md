@@ -1,6 +1,6 @@
 ---
 ---
-Mark Humphries' lab at the University of Nottingham.
+Mark Humphries' lab at the [University of Nottingham School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx).
 
 ### We are a neural data lab.
 
