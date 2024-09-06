@@ -20,10 +20,11 @@ Postdoc positions in the UK are funded by specific grants. All postdoc posts are
 
 ### Graduate students
 We occasionally have lab-specific PhD studentships. If available, they will appear above under <b>Open positions</b>.
-<br><br>
+<br>
 
-UK universities recruit most PhD students through their PhD programs. The University of Nottingham has [a range of PhD programs](https://www.nottingham.ac.uk/doctoral-training-centres/our-centres.aspx). Any projects we have available through these PhD programs will appear above under <b>Open positions</b>.
-<br><br>
+UK universities recruit most PhD students through their PhD programs. The University of Nottingham has [a range of PhD programs](https://www.nottingham.ac.uk/doctoral-training-centres/our-centres.aspx). Any projects we have available through these PhD programs will appear above under <b>Open positions</b>. UK PhDs start in October; programs open for applications anytime between the preceding December and May - check the specific program's calls for deadlines.
+<br>
+
 All program-linked PhD studentships in the UK are advertised on [FindAPhD.com](https://www.findaphd.com/).
 
 ### Internships
