@@ -626,6 +626,18 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
+- id: isbn:9780691195889
+  title: 'The spike: an epic journey through the brain in 2.1 seconds'
+  authors:
+  - Mark Humphries
+  publisher: Princeton University Press
+  date: '2021-01-01'
+  link: ''
+  image: images/TheSpike_book_cover.jpg
+  tags:
+  - latent-dynamics
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.neuron.2015.03.005
   title: Modular Deconstruction Reveals the Dynamical and Physical Building Blocks
     of a Locomotion Motor Program
