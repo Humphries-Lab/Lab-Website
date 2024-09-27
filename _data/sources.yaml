@@ -65,6 +65,12 @@
   tags:
     - latent-dynamics
 
+# The Spike
+- id: isbn:9780691195889
+  image: images/TheSpike_book_cover.jpg
+  tags:
+    - latent-dynamics
+
 # mPfC plastic irrespective of learning
 - id: doi:10.1523/jneurosci.1370-17.2019
   image: https://www.jneurosci.org/content/jneuro/39/18/3470/F3.medium.gif
