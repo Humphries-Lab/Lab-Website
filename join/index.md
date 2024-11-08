@@ -20,7 +20,7 @@ A crucial unmet need in the management of Parkinson’s disease is how to reliab
 The post is for 6 months, and would suit predoctoral candidates seeking research experience. 
 
 For full details of the role and how to apply 
-https://jobs.nottingham.ac.uk/vacancy.aspx?ref=SCI443424
+<https://jobs.nottingham.ac.uk/vacancy.aspx?ref=SCI443424>
 
 Unsure if you're a good fit for the post? Got any questions? Then contact [Mark](https://humphries-lab.org/members/mark-humphries.html) for a chat
 
