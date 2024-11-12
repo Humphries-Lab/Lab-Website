@@ -6,7 +6,6 @@ aliases:
   - N Kumar
 image: images/Team/Neelabh-lab-pic-cropped.jpg
 role: intern
-group: alumni
 links:
   twitter: kumarneelabh13
 ---
