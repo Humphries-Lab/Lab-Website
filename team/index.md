@@ -37,4 +37,4 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: fellow, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alumni" %}
-{% include list.html data="members" component="portrait" filters="role: intern, group:" %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: alumni" %}
