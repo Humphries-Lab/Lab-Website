@@ -342,6 +342,23 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:24904316
+  title: Early hypersynchrony in juvenile PINK1(-)/(-) motor cortex is rescued by
+    antidromic stimulation.
+  authors:
+  - Romain Carron
+  - Anton Filipchuk
+  - Romain Nardou
+  - Abhinav Singh
+  - Francois J Michel
+  - Mark D Humphries
+  - Constance Hammond
+  publisher: Frontiers in systems neuroscience
+  date: '2014-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24904316
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:24936413
   title: Striatal disorders dissociate mechanisms of enhanced and impaired response
     selection - Evidence from cognitive neurophysiology and computational modelling.
