@@ -32,6 +32,9 @@ UK universities recruit most PhD students through their PhD programs. The Univer
 
 All program-linked PhD studentships in the UK are advertised on [FindAPhD.com](https://www.findaphd.com/).
 
+### Research assistants
+We occasionally have openings for paid predoctoral research assistants. If available, they will appear above under <b>Open positions</b>. 
+
 ### Internships
 We typically host 1-2 pre-doctoral internships a year, either at Nottingham or remotely. 
 
