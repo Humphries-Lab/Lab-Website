@@ -18,6 +18,10 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+ra:
+  icon: fa-solid fa-user-graduate
+  description: Research Assistant
+  
 intern:
   icon: fa-solid fa-user-graduate
   description: Research Intern
