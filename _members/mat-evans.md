@@ -9,7 +9,8 @@ image: images/Team/great_wall.JPG
 role: postdoc
 group: alumni
 links:
-  linkedin: 
+  google-scholar: skilfloAAAAJ
+
 ---
 
 Mat Evans was an MRC-funded postdoc.
