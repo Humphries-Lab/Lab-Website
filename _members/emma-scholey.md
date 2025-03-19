@@ -9,12 +9,8 @@ aliases:
     
 links:
   email: exs165@student.bham.ac.uk
-  home-page: 
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
-  linkedin: 
+  twitter: emmavscholey
+
 ---
 
 Emma is a graduate student working on the role of stochastic choice in foraging decisions. She is a jointly supervised by [Matt Apps](https://www.msn-lab.com/) at the University of Birmingham.

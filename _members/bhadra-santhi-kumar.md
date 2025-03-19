@@ -14,12 +14,9 @@ aliases:
     
 links:
   email: lpzbk@exmail.nottingham.ac.uk  
-  home-page: 
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
-  linkedin: 
+  google-scholar: YX6IW04AAAAJ
+  github: bhadrask
+  linkedin: bhadrask
 ---
 
 Bhadra is a postdoc on an Innovate UK project to optimse the selection of Parkinson's patients for deep brain stimulation surgery

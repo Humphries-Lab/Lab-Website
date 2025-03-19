@@ -9,10 +9,7 @@ description:
 role: postdoc
 links:
   email: francisca.pereaperez1@nottingham.ac.uk
-  twitter: 
-  linkedin:
-  orcid:
-  google-scholar:
+  orcid: 0000-0002-3170-9528
   
 ---
 
