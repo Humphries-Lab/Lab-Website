@@ -105,7 +105,7 @@ twitter:
   link: https://twitter.com/$VALUE
 
 bluesky:
-  icon: fa-brands fa-x-twitter
+  icon: fa-brands fa-square-bluesky
   text: Bluesky
   tooltip: Bluesky
   link: https://bsky.app/profile/$VALUE
