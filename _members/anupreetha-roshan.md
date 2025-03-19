@@ -8,7 +8,7 @@ role: ra
 links:
   linkedin: anupreetha-roshan-2104ab92
   twitter: anupreetha_r 
-  orcid: https://github.com/anupreetha2016
+  orcid: 0009-0008-4063-8208
   github: anupreetha2016
 ---
 
