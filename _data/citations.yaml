@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1523/ENEURO.0431-23.2024
+  title: The Computational Bottleneck of Basal Ganglia Output (and What to Do About
+    it)
+  authors:
+  - Mark D. Humphries
+  publisher: eneuro
+  date: '2025-04-01'
+  link: https://doi.org/g9gs84
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.10.23.619790
   title: The computational bottleneck of basal ganglia output (and what to do about
     it)
