@@ -1,3 +1,13 @@
+# computational bottleneck
+- id: doi:10.1523/ENEURO.0431-23.2024
+  image: https://www.eneuro.org/content/eneuro/12/4/ENEURO.0431-23.2024/F2.medium.gif
+  tags:
+    - basal-ganglia
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/mdhumphries/Basal_Ganglia_Bottleneck_simulations
+
 # motor cortex spatial and temporal parameters arm movement
 - id: doi:10.1523/JNEUROSCI.1777-23.2024
   image: images/JNeurosci_cover.png
@@ -71,6 +81,12 @@
   tags:
     - latent-dynamics
 
+# EJN maladaptive striatal plasticity
+- id: doi:10.1111/ejn.14414
+image: https://onlinelibrary.wiley.com/cms/asset/9f9b9338-eb44-4912-a18f-0d4432f75952/ejn14414-fig-0003-m.jpg
+tags:
+    - basal-ganglia
+    
 # mPfC plastic irrespective of learning
 - id: doi:10.1523/jneurosci.1370-17.2019
   image: https://www.jneurosci.org/content/jneuro/39/18/3470/F3.medium.gif
@@ -156,7 +172,12 @@
       
 # papers to remove from ORCID: bioRxiv versions of published papers
 
-# motor cortex pre-print: uncomment once published in full
+
+# bottleneck preprint
+- id: 10.1101/2024.10.23.619790
+  remove: true
+
+# motor cortex simultaneous coding pre-print
 - id: doi:10.1101/2023.05.26.542452
   remove: true
   
