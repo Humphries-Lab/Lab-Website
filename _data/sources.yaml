@@ -121,9 +121,6 @@ tags:
   tags:
     - basal-ganglia
 
-# dynamical networks
-
-
 # Aplysia spiral attractor
 - id: doi:10.7554/eLife.27342
   image: https://iiif.elifesciences.org/lax/27342%2Felife-27342-fig4-v1.tif/full/617,/0/default.webp
@@ -138,16 +135,38 @@ tags:
       text: Data
       link: http://dx.doi.org/10.6080/K0SN074B
 
+# dynamical networks
+- id: 10.1162/NETN_a_00020
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/netn/1/4/10.1162_netn_a_00020/3/m_00020f01c.png?Expires=1750198776&Signature=fVWXQs68YHPFM00qtVQA-JrJfUv5nN1d1onqLB3TkY-MFGqAhz5MwBC5hd4MmEkEuNWyN7TCqGxZSnTdWKqImRm54b89yb-b40qJBpiV8R8UL5DVjuEZihVwCWVUr7uIba6-Ww9i8Jc1ufrK8LGETW6M~Y7qCsleban~sXIC5fSbC~bm9ddO6RqnxbLkuI2YSG18r0WMX1tfZ5fCmxix4zvoZ5kKtv4~XVT8MyxK1kVznoowFnz1iPKTLvUW8gpa2SK2P1hkH5Mq6McxO--nKnTYGzc2Fk1bLGxMYsOmfotEnrdVl4kNQl-zQ3rRyBO4W-TU8E6sWSbkCXRpOUBbaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+   - network-theory
+   - latent-dynamics
+
+
 # Aplysia modular deconstruction
 - id: doi:10.1016/j.neuron.2015.03.005
   image: https://www.cell.com/cms/attachment/b96fd54f-79f3-4c70-9a03-eabfab3f94fd/gr2.jpg
   tags:
     - Aplysia
     - latent-dynamics
+    - network-theory
   buttons:
     - type: source
       text: Code for paper
       link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
+
+# PLoS Biol: CS plasticity model
+- id: doi:10.1371/journal.pbio.1002034
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.1002034.g011
+  tags:
+    - basal-ganglia
+    - dopamine
+
+# sparse communities
+- id: doi:10.1038/srep08828
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep08828/MediaObjects/41598_2015_Article_BFsrep08828_Fig2_HTML.jpg?as=webp
+  tags:
+    - network-theory
 
 # Prog Neurobiol cortical activity distributions
 - id: doi:10.1016/j.pneurobio.2012.09.004
@@ -186,6 +205,8 @@ tags:
     - type: package
       text: Code toolbox
       link: https://github.com/mdhumphries/SmallWorldNess 
+
+
       
 # papers to remove from ORCID: bioRxiv versions of published papers
 
@@ -200,15 +221,27 @@ tags:
 
 # later removals:
 # EJN maladaptive
-- id: doi:10.1111/ejn.14414
-  remove: true
+# - id: doi:10.1111/ejn.14414
+#  remove: true
 
 # JNNP review
-- id: doi:10.1136/jnnp-2017-315922
-  remove: true
+# - id: doi:10.1136/jnnp-2017-315922
+#  remove: true
 
 # Javier's PLoS CB paper:
-- id: doi:10.1371/journal.pcbi.1006033
+# - id: doi:10.1371/journal.pcbi.1006033
+#  remove: true
+
+# Networks neural dynamics
+# - id: 10.1162/NETN_a_00020
+#  remove: true
+
+# sparse networks
+- id: pmid:25742951
+  remove: true
+
+# Kevin's PLoS Biol 
+- id: pmid:25562526
   remove: true
   
 # initial removals when setting up website
