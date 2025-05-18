@@ -109,7 +109,7 @@
       link: https://github.com/sibangi/PFCensemble_ITI
 
 # JNNP BG modelling in PD review
-- id: doi: 10.1136/jnnp-2017-315922
+- id: doi:10.1136/jnnp-2017-315922
   image: https://jnnp.bmj.com/content/jnnp/89/11/1181/F1.medium.gif
   tags:
     - basal-ganglia
@@ -136,7 +136,7 @@
       link: http://dx.doi.org/10.6080/K0SN074B
 
 # dynamical networks
-- id: 10.1162/NETN_a_00020
+- id: doi:10.1162/NETN_a_00020
   image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/netn/1/4/10.1162_netn_a_00020/3/m_00020f01c.png?Expires=1750198776&Signature=fVWXQs68YHPFM00qtVQA-JrJfUv5nN1d1onqLB3TkY-MFGqAhz5MwBC5hd4MmEkEuNWyN7TCqGxZSnTdWKqImRm54b89yb-b40qJBpiV8R8UL5DVjuEZihVwCWVUr7uIba6-Ww9i8Jc1ufrK8LGETW6M~Y7qCsleban~sXIC5fSbC~bm9ddO6RqnxbLkuI2YSG18r0WMX1tfZ5fCmxix4zvoZ5kKtv4~XVT8MyxK1kVznoowFnz1iPKTLvUW8gpa2SK2P1hkH5Mq6McxO--nKnTYGzc2Fk1bLGxMYsOmfotEnrdVl4kNQl-zQ3rRyBO4W-TU8E6sWSbkCXRpOUBbaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags: 
    - network-theory
