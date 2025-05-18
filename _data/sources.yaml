@@ -243,6 +243,10 @@ tags:
 # Kevin's PLoS Biol 
 - id: pmid:25562526
   remove: true
+
+# frontier's duplicates
+- id: doi:10.3389/fnins.2012.00009
+  remove: true
   
 # initial removals when setting up website
 - id: doi:10.1101/2022.08.30.505807
