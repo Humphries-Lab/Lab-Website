@@ -83,8 +83,8 @@
 
 # EJN maladaptive striatal plasticity
 - id: doi:10.1111/ejn.14414
-image: https://onlinelibrary.wiley.com/cms/asset/9f9b9338-eb44-4912-a18f-0d4432f75952/ejn14414-fig-0003-m.jpg
-tags:
+  image: https://onlinelibrary.wiley.com/cms/asset/9f9b9338-eb44-4912-a18f-0d4432f75952/ejn14414-fig-0003-m.jpg
+  tags:
     - basal-ganglia
     - dopamine
     
