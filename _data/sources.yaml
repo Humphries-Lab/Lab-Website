@@ -115,6 +115,15 @@ tags:
     - basal-ganglia
     - dopamine
 
+# PLoS CB recursive decision making
+- id: doi:10.1371/journal.pcbi.1006033
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1006033.g001
+  tags:
+    - basal-ganglia
+
+# dynamical networks
+
+
 # Aplysia spiral attractor
 - id: doi:10.7554/eLife.27342
   image: https://iiif.elifesciences.org/lax/27342%2Felife-27342-fig4-v1.tif/full/617,/0/default.webp
@@ -180,15 +189,29 @@ tags:
       
 # papers to remove from ORCID: bioRxiv versions of published papers
 
-
+  
 # bottleneck preprint
-- id: 10.1101/2024.10.23.619790
+- id: doi:10.1101/2024.10.23.619790
   remove: true
 
 # motor cortex simultaneous coding pre-print
 - id: doi:10.1101/2023.05.26.542452
   remove: true
+
+# later removals:
+# EJN maladaptive
+- id: doi:10.1111/ejn.14414
+  remove: true
+
+# JNNP review
+- id: doi:10.1136/jnnp-2017-315922
+  remove: true
+
+# Javier's PLoS CB paper:
+- id: doi:10.1371/journal.pcbi.1006033
+  remove: true
   
+# initial removals when setting up website
 - id: doi:10.1101/2022.08.30.505807
   remove: true
 
