@@ -86,6 +86,7 @@
 image: https://onlinelibrary.wiley.com/cms/asset/9f9b9338-eb44-4912-a18f-0d4432f75952/ejn14414-fig-0003-m.jpg
 tags:
     - basal-ganglia
+    - dopamine
     
 # mPfC plastic irrespective of learning
 - id: doi:10.1523/jneurosci.1370-17.2019
@@ -97,7 +98,7 @@ tags:
       text: Code for paper
       link: https://github.com/mdhumphries/PfCDictionary
 
-# Ensemble code in mPhfC
+# Ensemble code in mPfC
 - id: doi:10.1038/s41467-018-04638-2
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04638-2/MediaObjects/41467_2018_4638_Fig5_HTML.jpg?as=webp
   tags:
@@ -106,6 +107,13 @@ tags:
     - type: source
       text: Code for paper
       link: https://github.com/sibangi/PFCensemble_ITI
+
+# JNNP BG modelling in PD review
+- id: doi: 10.1136/jnnp-2017-315922
+  image: https://jnnp.bmj.com/content/jnnp/89/11/1181/F1.medium.gif
+  tags:
+    - basal-ganglia
+    - dopamine
 
 # Aplysia spiral attractor
 - id: doi:10.7554/eLife.27342
