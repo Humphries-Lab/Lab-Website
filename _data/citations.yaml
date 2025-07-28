@@ -357,19 +357,6 @@
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:24936413
-  title: Striatal disorders dissociate mechanisms of enhanced and impaired response
-    selection - Evidence from cognitive neurophysiology and computational modelling.
-  authors:
-  - Christian Beste
-  - Mark Humphries
-  - Carsten Saft
-  publisher: NeuroImage. Clinical
-  date: '2014-04-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24936413
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.pneurobio.2012.09.004
   title: Population-wide distributions of neural activity during perceptual decision-making
   authors:
