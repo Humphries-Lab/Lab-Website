@@ -7,10 +7,10 @@ aliases:
 image: images/Team/Photo_FPP.jpg
 description: 
 role: postdoc
+group: alumni
 links:
-  email: francisca.pereaperez1@nottingham.ac.uk
   orcid: 0000-0002-3170-9528
   
 ---
 
-Francisca is a postdoc on a BBSRC-funded project to study the learning algorithms underlying foraging decisions.
+Francisca was a postdoc on a BBSRC-funded project to study the learning algorithms underlying foraging decisions.
