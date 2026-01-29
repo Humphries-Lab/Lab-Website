@@ -19,7 +19,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-{% include button.html icon="fa-solid fa-laptop-code" text="All our models on ModelDB" link="https://senselab.med.yale.edu/modeldb/author_matches.py?author=Humphries+MD" style="button" %}
+{% include button.html icon="fa-solid fa-laptop-code" text="All our models on ModelDB" link="https://modeldb.science/modelauthor/Humphries%20MD" style="button" %}
 
 {% include section.html %}
 
