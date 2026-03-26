@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.16.706176
+  title: Primary and Supplementary Motor cortex implement parallel control solutions
+    for rhythmic and discrete arm movements
+  authors:
+  - Andrea Colins Rodriguez
+  - Romulo Fuentes-Flores
+  - Mark D Humphries
+  publisher: openRxiv
+  date: '2026-02-17'
+  link: https://doi.org/hbtxps
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.28.685063
   title: Stochastic choice drives variability in patch foraging decisions across species
   authors:
