@@ -11,7 +11,17 @@ We love to work with curious, kind people. Learn more about our lab from the [La
 
 ## Open positions
 
-None right now.
+### Research assistant ### 
+We're seeking a predoctoral research assistant to join a project on the neural computations of foraging, in collaboration with the groups of Matthew Apps (Birmingham) and Nathan Lepora (Bristol). The goal of this project is to find out if there is a common decision algorithm for foraging decisions across species, and what that algorithm is.
+
+You will create predictions for how foragers should vary in their stay-of-leave decisions for different types of decision algorithm, and test them using data from humans and rodents tackling foraging tasks. You will have some experience in computational modelling of behaviour, such as decision-making models or reinforcement learning, and good programming skills.
+
+The post is for up to 7 months, and would suit predoctoral candidates seeking research experience. 
+
+Full details of the role and how to apply [here](https://jobs.nottingham.ac.uk/vacancy.aspx?ref=SCI492126). Any questions? Drop [Mark](mark.humphries@nottingham.ac.uk) a line. 
+
+Closing date: April 21st 2026
+
 
 ## Potential lab positions
 ### Independent research fellows
