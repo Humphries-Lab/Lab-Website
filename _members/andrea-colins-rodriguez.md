@@ -1,7 +1,7 @@
 ---
 name: Andrea Colins Rodriguez
 image: images/Team/Andrea_for_Website.jpg
-role: fellow
+role: pi
 group:  affiliates
 aliases:
   - Andrea Rodriguez
