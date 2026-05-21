@@ -14,4 +14,4 @@ links:
 
 ---
 
-Anushka Sarkar is a long-term research intern, working on how the motor system of Aplysia responds to perturbations
+Anushka Sarkar is a long-term research intern, analysing how the motor system of Aplysia responds to perturbations
