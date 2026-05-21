@@ -6,7 +6,12 @@ aliases:
 image: images/Team/Anushka.jpg
 role: intern
 links:
-  twitter: kumarneelabh13
+email: anushka01sarkar@gmail.com
+  home-page: https://sites.google.com/view/anushkasarkar/
+  linkedin: anushkas01
+  github: Anushkaa007
+  google-scholar: 6G8ja0sAAAAJ
+
 ---
 
 Anushka Sarkar is a long-term research intern, working on how the motor system of Aplysia responds to perturbations
