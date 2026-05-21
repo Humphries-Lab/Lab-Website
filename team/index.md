@@ -38,14 +38,16 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: fellow, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alumni" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: alumni" %}
 
 And we'd like to thank all our research interns:
 
 Nottingham:
-- Lowri Powell
+- Ceren Kimyonok
 - Anna Rees
 - Gonzalo Ruarte
+- Lowri Powell
 - Mia Sukkersudha
 
 Manchester:
