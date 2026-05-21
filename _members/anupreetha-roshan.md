@@ -5,6 +5,7 @@ aliases:
   - A Roshan
 image: images/Team/Anupreetha.jpg
 role: ra
+group: alumni
 links:
   linkedin: anupreetha-roshan-2104ab92
   twitter: anupreetha_r 
