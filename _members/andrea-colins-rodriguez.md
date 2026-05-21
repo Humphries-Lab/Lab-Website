@@ -19,4 +19,4 @@ links:
   twitter: AndreaColins
 ---
 
-Andrea was a postdoc on a MRC-funded project to understand the neural dynamics that drive transitions in movements. She is now a CONACYT (Chile) Research Fellow at the University of Santiago, continuing our research on the coding of movement in low-dimensional activity.
+Andrea was a postdoc on a MRC-funded project to understand the neural dynamics that drive transitions in movements. She won a CONACYT (Chile) Research Fellow at the University of Santiago; and is now a Full Professor at Universidad Adolfo Ibáñez. We continue collaborating on uncovering the coding of movement in low-dimensional neural activity.
