@@ -6,7 +6,7 @@ aliases:
 image: images/Team/Anushka.jpg
 role: intern
 links:
-email: anushka01sarkar@gmail.com
+  email: anushka01sarkar@gmail.com
   home-page: https://sites.google.com/view/anushkasarkar/
   linkedin: anushkas01
   github: Anushkaa007
