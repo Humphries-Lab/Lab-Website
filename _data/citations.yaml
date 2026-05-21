@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s44271-026-00465-0
+  title: Stochastic choice drives variability in patch foraging decisions in humans
+    and rats
+  authors:
+  - Emma V. Scholey
+  - Matthew A. J. Apps
+  - Mark D. Humphries
+  publisher: Communications Psychology
+  date: '2026-05-19'
+  link: https://doi.org/hb4xhx
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.02.16.706176
   title: Primary and Supplementary Motor cortex implement parallel control solutions
     for rhythmic and discrete arm movements
@@ -14,7 +27,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.10.28.685063
-  title: Stochastic choice drives variability in patch foraging decisions across species
+  title: Stochastic choice drives variability in patch foraging decisions in humans
+    and rats
   authors:
   - Emma V. Scholey
   - Matthew A.J. Apps
