@@ -32,6 +32,7 @@ Version: October 8th 2020
 %}
 
 Also read these guides to research code:
+- Russ Poldrack's [Better Code, Better Science](https://bettercode-book.org/).
 - Dan Larremore's lab guide to [clean code](https://drive.google.com/file/d/1TraVwRkbkCbHq-s_-NS69ZEbRNwH8XNh/view?usp=sharing)
 - Patrick Mineault's [Good Research Code Handbook](https://goodresearch.dev/index.html)
 
@@ -40,9 +41,7 @@ Also read these guides to research code:
 
 I was one day going to write lots of things about how to do stuff in research, but other people have already written better stuff. Here is some of that stuff:
 
-Russ Poldrack's online textbooks:
-- On statistics: [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html). 
-- On coding: [Better Code, Better Science](https://bettercode-book.org/).
+Russ Poldrack's excellent starting guide to statistics: [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html). 
   
 Dan Larremore's lab guides to:
 - [Data visualization](https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view?usp=sharing)
