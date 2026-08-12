@@ -6,12 +6,9 @@ aliases:
 image: images/Team/CaitlinCook.jpeg
 role: ra
 links:
-  email: anushka01sarkar@gmail.com
-  home-page: https://sites.google.com/view/anushkasarkar/
-  linkedin: anushkas01
-  github: Anushkaa007
-  google-scholar: 6G8ja0sAAAAJ
+  email: caitlin.cook@nottingham.ac.uk
+  linkedin: caitlin-e-cook
 
 ---
 
-Caitlin Cook is a research assistant, 
+Caitlin Cook is a research assistant surveying patients and clinicians about the outcomes of deep brain stimulation  
