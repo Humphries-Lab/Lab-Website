@@ -41,9 +41,10 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ra, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: alumni" %}
 
-And we'd like to thank all our research interns:
+And we'd like to thank all our research experience and placement interns:
 
 Nottingham:
+- Annmarie Namatovu
 - Ceren Kimyonok
 - Anna Rees
 - Gonzalo Ruarte
