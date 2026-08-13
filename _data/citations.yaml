@@ -281,7 +281,7 @@
   orcid: 0000-0002-1906-2581
   plugin: sources.py
   file: sources.yaml
-  image: https://www.jneurosci.org/content/jneuro/39/18/3470/F3.medium.gif
+  image: images/Paper_Figures/Singh_JNeurosci2019_figure3.jpg
   tags:
   - prefrontal cortex
   buttons:
