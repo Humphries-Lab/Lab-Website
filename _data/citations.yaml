@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.10.26360084
+  title: Six Latent Variables Underlie MDS-UPDRS Scores and Reveal a Dissociation
+    Between Patient- and Clinician-Assessed Parkinson's Disease Symptoms
+  authors:
+  - Bhadra Santhi Kumar
+  - Mark D Humphries
+  publisher: openRxiv
+  date: '2026-08-11'
+  link: https://doi.org/hcfc2t
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.07.15.737076
+  title: Distinct Orbitofrontal Feedback Signals Shape Sensory Behavioral Strategies
+    during Flexible Learning
+  authors:
+  - Jasper Teutsch
+  - Rohan Rao
+  - Mark D. Humphries
+  - Silvia Maggi
+  - Abhishek Banerjee
+  publisher: openRxiv
+  date: '2026-07-20'
+  link: https://doi.org/hcfc2v
+  orcid: 0000-0002-1906-2581
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s44271-026-00465-0
   title: Stochastic choice drives variability in patch foraging decisions in humans
     and rats
@@ -11,8 +38,15 @@
   date: '2026-05-19'
   link: https://doi.org/hb4xhx
   orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-026-00465-0/MediaObjects/44271_2026_465_Fig1_HTML.png?as=webp
+  tags:
+  - behaviour
+  buttons:
+  - type: source
+    text: code
+    link: https://github.com/Humphries-Lab/Foraging-variability
 - id: doi:10.64898/2026.02.16.706176
   title: Primary and Supplementary Motor cortex implement parallel control solutions
     for rhythmic and discrete arm movements
@@ -23,19 +57,6 @@
   publisher: openRxiv
   date: '2026-02-17'
   link: https://doi.org/hbtxps
-  orcid: 0000-0002-1906-2581
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.10.28.685063
-  title: Stochastic choice drives variability in patch foraging decisions in humans
-    and rats
-  authors:
-  - Emma V. Scholey
-  - Matthew A.J. Apps
-  - Mark D. Humphries
-  publisher: openRxiv
-  date: '2025-10-29'
-  link: https://doi.org/g98xgz
   orcid: 0000-0002-1906-2581
   plugin: orcid.py
   file: orcid.yaml
@@ -128,7 +149,7 @@
   orcid: 0000-0002-1906-2581
   plugin: sources.py
   file: sources.yaml
-  image: https://www.jneurosci.org/content/jneuro/42/20/4131/F2.medium.gif
+  image: images/Paper_Figures/Maggi_JNeurosci2022_figure2.jpg
   tags:
   - prefrontal-cortex
   - latent-dynamics
@@ -144,7 +165,7 @@
   orcid: 0000-0002-1906-2581
   plugin: sources.py
   file: sources.yaml
-  image: https://www.jneurosci.org/content/jneuro/42/8/1417/F10.medium.gif
+  image: images/Paper_Figures/Cinotti_JNeurosci2021_figure10.jpg
   tags:
   - basal-ganglia
   - Bayesian
