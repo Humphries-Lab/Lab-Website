@@ -1,3 +1,13 @@
+# stochastic model foraging paper
+- id: doi:10.1038/s44271-026-00465-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-026-00465-0/MediaObjects/44271_2026_465_Fig1_HTML.png?as=webp
+  tags:
+    - behaviour
+  buttons:
+  - type: source
+    text: code
+    link: https://github.com/Humphries-Lab/Foraging-variability
+    
 # computational bottleneck
 - id: doi:10.1523/ENEURO.0431-23.2024
   image: https://www.eneuro.org/content/eneuro/12/4/ENEURO.0431-23.2024/F2.medium.gif
@@ -43,14 +53,14 @@
       
 # Activity subspaces in mPfC   
 - id: doi:10.1523/JNEUROSCI.1412-21.2022
-  image: https://www.jneurosci.org/content/jneuro/42/20/4131/F2.medium.gif
+  image: images/Paper_Figures/Maggi_JNeurosci2022_figure2.jpg
   tags:
     - prefrontal-cortex
     - latent-dynamics
 
 # Bayesian inference of connections between neurons
 - id: doi:10.1523/jneurosci.1487-21.2021
-  image: https://www.jneurosci.org/content/jneuro/42/8/1417/F10.medium.gif
+  image: images/Paper_Figures/Cinotti_JNeurosci2021_figure10.jpg
   tags:
     - basal-ganglia
     - Bayesian
@@ -209,7 +219,9 @@
 
       
 # papers to remove from ORCID: bioRxiv versions of published papers
-
+# stochastic foraging model Comm Psych preprint
+- id: doi:10.1101/2025.10.28.685063 
+  remove: true
   
 # bottleneck preprint
 - id: doi:10.1101/2024.10.23.619790
