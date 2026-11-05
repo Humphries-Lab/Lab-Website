@@ -3,11 +3,12 @@ name: Shweta Prasad
 aliases:
   - S Prasad
   - S. Prasad
-image: images/Team/shweta.png
+image: images/Team/Shweta.png
 description: 
 role: ra
 group:
 links:
+  home-page: https://shw3ta.github.io/
   github: shw3ta
   
 ---
