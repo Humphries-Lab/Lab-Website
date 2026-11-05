@@ -2,6 +2,7 @@
 name: Bhadra Santhi Kumar
 image: images/Team/bhadra.jpeg
 role: postdoc
+group: alumni
 aliases:
   - Bhadra Kumar
   - Bhadra Santhi Kumar
@@ -19,4 +20,4 @@ links:
   linkedin: bhadrask
 ---
 
-Bhadra is a postdoc on an Innovate UK project to optimse the selection of Parkinson's patients for deep brain stimulation surgery
+Bhadra was a postdoc on an Innovate UK project to optimse the selection of Parkinson's patients for deep brain stimulation surgery

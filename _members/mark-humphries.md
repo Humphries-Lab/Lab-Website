@@ -25,3 +25,5 @@ Mark Humphries is a Chair in Computational Neuroscience at the University of Not
 <br>
 <br>
 He writes essays for a popular audience at [The Spike](https://medium.com/the-spike), is a columnist at [The Transmitter](https://www.thetransmitter.org/contributor/mark-humphries/), and authored the popular science book ["The Spike: An Epic Journey Through the Brain in 2.1 Seconds"](https://press.princeton.edu/books/paperback/9780691241487/the-spike?_gl=1*147tsvi*_up*MQ..*_ga*OTA5MDEyMDc5LjE3MjM2NTY5Nzg.*_ga_N1W9JWKLY3*MTcyMzY1Njk3Ny4xLjEuMTcyMzY1NzAwOC4yOS4wLjE1ODIwMDA4NDI.) (Princeton University Press) on the brain's own language, the messages sent by its neurons.
+
+His forthcoming book [The Latent Brain](https://www.hup.harvard.edu/books/9780674300293) will be published by Harvard University Press in March 2027
