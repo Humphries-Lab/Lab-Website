@@ -2,6 +2,7 @@
 name: Emma Scholey
 image: images/Team/EmmaS.JPG
 role: phd
+group: alumni
 aliases:
   - Emma Scholey
   - E Scholey
@@ -13,4 +14,4 @@ links:
 
 ---
 
-Emma is a graduate student working on the role of stochastic choice in foraging decisions. She is a jointly supervised by [Matt Apps](https://www.msn-lab.com/) at the University of Birmingham.
+Emma was a graduate student working on the role of stochastic choice in foraging decisions. She was jointly supervised by [Matt Apps](https://www.msn-lab.com/) at the University of Birmingham.
